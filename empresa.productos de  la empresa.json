@@ -1,0 +1,5418 @@
+[{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66384"
+  },
+  "id_producto": 1,
+  "nombre_producto": "Acer Perferendis 964",
+  "marca": "Acer",
+  "categoría": "Belleza",
+  "descripción": "Qui unde sint nisi modi quam fuga.",
+  "stock": 492,
+  "precio_usd": 1329.23,
+  "descuento_porcentaje": 15,
+  "precio_final": 1129.85,
+  "ubicación_bodega": "Teruel",
+  "sku": "SKU-16349",
+  "proveedor": "Casals, Beltran and Catalá",
+  "peso_kg": 12.09
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66385"
+  },
+  "id_producto": 2,
+  "nombre_producto": "Sony Enim 478",
+  "marca": "Sony",
+  "categoría": "Audio",
+  "descripción": "Praesentium rem enim assumenda asperiores iure iusto.",
+  "stock": 315,
+  "precio_usd": 1200.65,
+  "descuento_porcentaje": 25,
+  "precio_final": 900.49,
+  "ubicación_bodega": "Murcia",
+  "sku": "SKU-99846",
+  "proveedor": "Neira-Bárcena",
+  "peso_kg": 0.75
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66386"
+  },
+  "id_producto": 3,
+  "nombre_producto": "Adidas Vel 418",
+  "marca": "Adidas",
+  "categoría": "Computadores",
+  "descripción": "Error mollitia necessitatibus.",
+  "stock": 460,
+  "precio_usd": 1921.27,
+  "descuento_porcentaje": 10,
+  "precio_final": 1729.14,
+  "ubicación_bodega": "Ourense",
+  "sku": "SKU-83940",
+  "proveedor": "Robledo-Córdoba",
+  "peso_kg": 10.66
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66387"
+  },
+  "id_producto": 4,
+  "nombre_producto": "Lenovo Perspiciatis 604",
+  "marca": "Lenovo",
+  "categoría": "Gaming",
+  "descripción": "Vero asperiores atque voluptate harum explicabo sunt.",
+  "stock": 478,
+  "precio_usd": 559.21,
+  "descuento_porcentaje": 25,
+  "precio_final": 419.41,
+  "ubicación_bodega": "Zaragoza",
+  "sku": "SKU-42176",
+  "proveedor": "Agustí, Feliu and Llanos",
+  "peso_kg": 1.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66388"
+  },
+  "id_producto": 5,
+  "nombre_producto": "Asus Possimus 894",
+  "marca": "Asus",
+  "categoría": "Electrónica",
+  "descripción": "Omnis odit sequi cum.",
+  "stock": 179,
+  "precio_usd": 422.53,
+  "descuento_porcentaje": 25,
+  "precio_final": 316.9,
+  "ubicación_bodega": "Cádiz",
+  "sku": "SKU-50700",
+  "proveedor": "Morcillo, Rios and Cañete",
+  "peso_kg": 0.19
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66389"
+  },
+  "id_producto": 6,
+  "nombre_producto": "LG Voluptatem 335",
+  "marca": "LG",
+  "categoría": "Audio",
+  "descripción": "Delectus delectus quaerat assumenda aut dolorum architecto.",
+  "stock": 117,
+  "precio_usd": 1507.45,
+  "descuento_porcentaje": 15,
+  "precio_final": 1281.33,
+  "ubicación_bodega": "Santa Cruz de Tenerife",
+  "sku": "SKU-85325",
+  "proveedor": "Piñol, Huguet and Lobo",
+  "peso_kg": 15.53
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6638a"
+  },
+  "id_producto": 7,
+  "nombre_producto": "Apple Id 380",
+  "marca": "Apple",
+  "categoría": "Belleza",
+  "descripción": "Sit dolorum distinctio doloremque provident dolores minima.",
+  "stock": 186,
+  "precio_usd": 1448.9,
+  "descuento_porcentaje": 20,
+  "precio_final": 1159.12,
+  "ubicación_bodega": "Albacete",
+  "sku": "SKU-87635",
+  "proveedor": "Mena, Jover and Peña",
+  "peso_kg": 1
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6638b"
+  },
+  "id_producto": 8,
+  "nombre_producto": "Samsung Fuga 427",
+  "marca": "Samsung",
+  "categoría": "Audio",
+  "descripción": "Saepe nobis dignissimos sequi optio in.",
+  "stock": 479,
+  "precio_usd": 586.77,
+  "descuento_porcentaje": 15,
+  "precio_final": 498.75,
+  "ubicación_bodega": "Cáceres",
+  "sku": "SKU-79179",
+  "proveedor": "Ferrero-Elías",
+  "peso_kg": 18.83
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6638c"
+  },
+  "id_producto": 9,
+  "nombre_producto": "LG Sed 222",
+  "marca": "LG",
+  "categoría": "Audio",
+  "descripción": "Accusantium explicabo eveniet ex ullam impedit laboriosam est.",
+  "stock": 437,
+  "precio_usd": 1255.22,
+  "descuento_porcentaje": 15,
+  "precio_final": 1066.94,
+  "ubicación_bodega": "Tarragona",
+  "sku": "SKU-61399",
+  "proveedor": "Ángel Group",
+  "peso_kg": 10.88
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6638d"
+  },
+  "id_producto": 10,
+  "nombre_producto": "Xiaomi Minus 444",
+  "marca": "Xiaomi",
+  "categoría": "Hogar",
+  "descripción": "Aliquid magni incidunt nemo.",
+  "stock": 428,
+  "precio_usd": 747.53,
+  "descuento_porcentaje": 15,
+  "precio_final": 635.4,
+  "ubicación_bodega": "Jaén",
+  "sku": "SKU-36427",
+  "proveedor": "Fernández, Durán and Tamayo",
+  "peso_kg": 8.73
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6638e"
+  },
+  "id_producto": 11,
+  "nombre_producto": "Pioneer Cupiditate 666",
+  "marca": "Pioneer",
+  "categoría": "Belleza",
+  "descripción": "Ut molestias sed repudiandae nam.",
+  "stock": 116,
+  "precio_usd": 414.7,
+  "descuento_porcentaje": 30,
+  "precio_final": 290.29,
+  "ubicación_bodega": "Málaga",
+  "sku": "SKU-85274",
+  "proveedor": "Cerro, Pareja and Hidalgo",
+  "peso_kg": 16.72
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6638f"
+  },
+  "id_producto": 12,
+  "nombre_producto": "Lenovo Autem 361",
+  "marca": "Lenovo",
+  "categoría": "Belleza",
+  "descripción": "Maxime cum deserunt cupiditate deleniti alias minus aliquam.",
+  "stock": 145,
+  "precio_usd": 853.46,
+  "descuento_porcentaje": 10,
+  "precio_final": 768.11,
+  "ubicación_bodega": "Alicante",
+  "sku": "SKU-71881",
+  "proveedor": "Sureda PLC",
+  "peso_kg": 16.74
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66390"
+  },
+  "id_producto": 13,
+  "nombre_producto": "Nike Ab 670",
+  "marca": "Nike",
+  "categoría": "Ropa",
+  "descripción": "Explicabo debitis ipsum tempora.",
+  "stock": 449,
+  "precio_usd": 1770.27,
+  "descuento_porcentaje": 25,
+  "precio_final": 1327.7,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-44879",
+  "proveedor": "Luque LLC",
+  "peso_kg": 1.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66391"
+  },
+  "id_producto": 14,
+  "nombre_producto": "HP Vel 781",
+  "marca": "HP",
+  "categoría": "Deportes",
+  "descripción": "Temporibus consequuntur totam delectus mollitia.",
+  "stock": 387,
+  "precio_usd": 879.66,
+  "descuento_porcentaje": 20,
+  "precio_final": 703.73,
+  "ubicación_bodega": "León",
+  "sku": "SKU-83071",
+  "proveedor": "Paniagua Inc",
+  "peso_kg": 2.47
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66392"
+  },
+  "id_producto": 15,
+  "nombre_producto": "Sony Voluptatem 136",
+  "marca": "Sony",
+  "categoría": "Audio",
+  "descripción": "Quae adipisci modi expedita.",
+  "stock": 8,
+  "precio_usd": 969.35,
+  "descuento_porcentaje": 15,
+  "precio_final": 823.95,
+  "ubicación_bodega": "Melilla",
+  "sku": "SKU-70659",
+  "proveedor": "Jara, Pazos and Bejarano",
+  "peso_kg": 10.62
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66393"
+  },
+  "id_producto": 16,
+  "nombre_producto": "Apple Ea 600",
+  "marca": "Apple",
+  "categoría": "Gaming",
+  "descripción": "Eos corrupti eos iste odit incidunt.",
+  "stock": 149,
+  "precio_usd": 656.66,
+  "descuento_porcentaje": 5,
+  "precio_final": 623.83,
+  "ubicación_bodega": "Santa Cruz de Tenerife",
+  "sku": "SKU-40599",
+  "proveedor": "Valle, Moreno and Vélez",
+  "peso_kg": 13.66
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66394"
+  },
+  "id_producto": 17,
+  "nombre_producto": "Adidas Optio 488",
+  "marca": "Adidas",
+  "categoría": "Deportes",
+  "descripción": "Quisquam laudantium suscipit dicta nulla beatae.",
+  "stock": 360,
+  "precio_usd": 393.4,
+  "descuento_porcentaje": 30,
+  "precio_final": 275.38,
+  "ubicación_bodega": "Baleares",
+  "sku": "SKU-12306",
+  "proveedor": "Cabrero-Plaza",
+  "peso_kg": 22.33
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66395"
+  },
+  "id_producto": 18,
+  "nombre_producto": "Acer Natus 286",
+  "marca": "Acer",
+  "categoría": "Deportes",
+  "descripción": "Repudiandae error nobis alias.",
+  "stock": 410,
+  "precio_usd": 743.31,
+  "descuento_porcentaje": 20,
+  "precio_final": 594.65,
+  "ubicación_bodega": "León",
+  "sku": "SKU-32248",
+  "proveedor": "Narváez, Casals and Reguera",
+  "peso_kg": 22.48
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66396"
+  },
+  "id_producto": 19,
+  "nombre_producto": "Asus Esse 150",
+  "marca": "Asus",
+  "categoría": "Ropa",
+  "descripción": "Mollitia harum eos perspiciatis necessitatibus cum.",
+  "stock": 435,
+  "precio_usd": 990.97,
+  "descuento_porcentaje": 0,
+  "precio_final": 990.97,
+  "ubicación_bodega": "Santa Cruz de Tenerife",
+  "sku": "SKU-85663",
+  "proveedor": "Arregui Group",
+  "peso_kg": 5.12
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66397"
+  },
+  "id_producto": 20,
+  "nombre_producto": "Samsung Eos 782",
+  "marca": "Samsung",
+  "categoría": "Deportes",
+  "descripción": "Natus fuga est totam debitis.",
+  "stock": 149,
+  "precio_usd": 551.37,
+  "descuento_porcentaje": 20,
+  "precio_final": 441.1,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-80305",
+  "proveedor": "Ureña-Monreal",
+  "peso_kg": 18.76
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66398"
+  },
+  "id_producto": 21,
+  "nombre_producto": "Lenovo Odit 227",
+  "marca": "Lenovo",
+  "categoría": "Belleza",
+  "descripción": "Rerum voluptate recusandae magni rem.",
+  "stock": 104,
+  "precio_usd": 376.23,
+  "descuento_porcentaje": 10,
+  "precio_final": 338.61,
+  "ubicación_bodega": "Castellón",
+  "sku": "SKU-01310",
+  "proveedor": "Lara Ltd",
+  "peso_kg": 22.41
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66399"
+  },
+  "id_producto": 22,
+  "nombre_producto": "LG Voluptas 799",
+  "marca": "LG",
+  "categoría": "Audio",
+  "descripción": "Ad tempora praesentium dolorum dolore blanditiis.",
+  "stock": 338,
+  "precio_usd": 696.97,
+  "descuento_porcentaje": 25,
+  "precio_final": 522.73,
+  "ubicación_bodega": "Cádiz",
+  "sku": "SKU-09568",
+  "proveedor": "Miró PLC",
+  "peso_kg": 16.12
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6639a"
+  },
+  "id_producto": 23,
+  "nombre_producto": "Xiaomi Sit 503",
+  "marca": "Xiaomi",
+  "categoría": "Cocina",
+  "descripción": "Dolorum quibusdam voluptatibus sint porro asperiores repellat.",
+  "stock": 193,
+  "precio_usd": 1461.2,
+  "descuento_porcentaje": 5,
+  "precio_final": 1388.14,
+  "ubicación_bodega": "Asturias",
+  "sku": "SKU-51007",
+  "proveedor": "Roura Group",
+  "peso_kg": 12.56
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6639b"
+  },
+  "id_producto": 24,
+  "nombre_producto": "Lenovo Modi 842",
+  "marca": "Lenovo",
+  "categoría": "Computadores",
+  "descripción": "Distinctio nam ipsa et delectus ad.",
+  "stock": 435,
+  "precio_usd": 481.23,
+  "descuento_porcentaje": 20,
+  "precio_final": 384.98,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-93267",
+  "proveedor": "Barrena, Gracia and Garcés",
+  "peso_kg": 7.1
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6639c"
+  },
+  "id_producto": 25,
+  "nombre_producto": "Adidas Fugiat 309",
+  "marca": "Adidas",
+  "categoría": "Computadores",
+  "descripción": "Atque aliquam vero debitis eaque.",
+  "stock": 64,
+  "precio_usd": 569.74,
+  "descuento_porcentaje": 0,
+  "precio_final": 569.74,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-29214",
+  "proveedor": "Camps, Colomer and Almagro",
+  "peso_kg": 3.35
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6639d"
+  },
+  "id_producto": 26,
+  "nombre_producto": "HP Necessitatibus 589",
+  "marca": "HP",
+  "categoría": "Electrónica",
+  "descripción": "Molestiae nostrum fuga totam omnis atque esse.",
+  "stock": 223,
+  "precio_usd": 253.42,
+  "descuento_porcentaje": 15,
+  "precio_final": 215.41,
+  "ubicación_bodega": "Ourense",
+  "sku": "SKU-24915",
+  "proveedor": "Hurtado Inc",
+  "peso_kg": 8.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6639e"
+  },
+  "id_producto": 27,
+  "nombre_producto": "Sony Quo 799",
+  "marca": "Sony",
+  "categoría": "Audio",
+  "descripción": "Architecto incidunt quidem.",
+  "stock": 345,
+  "precio_usd": 1895.85,
+  "descuento_porcentaje": 15,
+  "precio_final": 1611.47,
+  "ubicación_bodega": "Valencia",
+  "sku": "SKU-83024",
+  "proveedor": "Galan LLC",
+  "peso_kg": 4.82
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6639f"
+  },
+  "id_producto": 28,
+  "nombre_producto": "Sony Totam 181",
+  "marca": "Sony",
+  "categoría": "Computadores",
+  "descripción": "Similique eum magnam.",
+  "stock": 20,
+  "precio_usd": 235.79,
+  "descuento_porcentaje": 30,
+  "precio_final": 165.05,
+  "ubicación_bodega": "Salamanca",
+  "sku": "SKU-80477",
+  "proveedor": "Gallart-Riera",
+  "peso_kg": 16.38
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a0"
+  },
+  "id_producto": 29,
+  "nombre_producto": "Xiaomi Eligendi 871",
+  "marca": "Xiaomi",
+  "categoría": "Audio",
+  "descripción": "Velit quod minus ducimus pariatur sint eum.",
+  "stock": 28,
+  "precio_usd": 186.66,
+  "descuento_porcentaje": 0,
+  "precio_final": 186.66,
+  "ubicación_bodega": "Ceuta",
+  "sku": "SKU-12379",
+  "proveedor": "Pol, Vizcaíno and Castrillo",
+  "peso_kg": 0.33
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a1"
+  },
+  "id_producto": 30,
+  "nombre_producto": "Adidas Molestiae 875",
+  "marca": "Adidas",
+  "categoría": "Deportes",
+  "descripción": "Quasi dolorum esse fuga nam assumenda.",
+  "stock": 431,
+  "precio_usd": 548.37,
+  "descuento_porcentaje": 20,
+  "precio_final": 438.7,
+  "ubicación_bodega": "Albacete",
+  "sku": "SKU-81683",
+  "proveedor": "Morante LLC",
+  "peso_kg": 17.56
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a2"
+  },
+  "id_producto": 31,
+  "nombre_producto": "Apple Blanditiis 100",
+  "marca": "Apple",
+  "categoría": "Ropa",
+  "descripción": "Praesentium quia repellendus porro delectus incidunt.",
+  "stock": 166,
+  "precio_usd": 1513.31,
+  "descuento_porcentaje": 5,
+  "precio_final": 1437.64,
+  "ubicación_bodega": "Badajoz",
+  "sku": "SKU-46009",
+  "proveedor": "Gomez LLC",
+  "peso_kg": 9.47
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a3"
+  },
+  "id_producto": 32,
+  "nombre_producto": "Pioneer Ex 994",
+  "marca": "Pioneer",
+  "categoría": "Cocina",
+  "descripción": "Quod eum culpa delectus.",
+  "stock": 90,
+  "precio_usd": 78.56,
+  "descuento_porcentaje": 10,
+  "precio_final": 70.7,
+  "ubicación_bodega": "Zamora",
+  "sku": "SKU-81765",
+  "proveedor": "Aragonés, Cabello and Vizcaíno",
+  "peso_kg": 7.6
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a4"
+  },
+  "id_producto": 33,
+  "nombre_producto": "Pioneer Neque 539",
+  "marca": "Pioneer",
+  "categoría": "Belleza",
+  "descripción": "Delectus aliquam ipsam mollitia quisquam.",
+  "stock": 291,
+  "precio_usd": 1382.51,
+  "descuento_porcentaje": 30,
+  "precio_final": 967.76,
+  "ubicación_bodega": "Tarragona",
+  "sku": "SKU-37582",
+  "proveedor": "Benavides, Mateo and Francisco",
+  "peso_kg": 2.54
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a5"
+  },
+  "id_producto": 34,
+  "nombre_producto": "LG Aliquid 119",
+  "marca": "LG",
+  "categoría": "Ropa",
+  "descripción": "Optio dolorum blanditiis blanditiis amet.",
+  "stock": 106,
+  "precio_usd": 946.08,
+  "descuento_porcentaje": 20,
+  "precio_final": 756.86,
+  "ubicación_bodega": "Tarragona",
+  "sku": "SKU-73409",
+  "proveedor": "Vergara Group",
+  "peso_kg": 12.59
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a6"
+  },
+  "id_producto": 35,
+  "nombre_producto": "Acer Laboriosam 678",
+  "marca": "Acer",
+  "categoría": "Cocina",
+  "descripción": "Unde perferendis odio.",
+  "stock": 59,
+  "precio_usd": 792.97,
+  "descuento_porcentaje": 15,
+  "precio_final": 674.02,
+  "ubicación_bodega": "Baleares",
+  "sku": "SKU-86196",
+  "proveedor": "Enríquez, Sáenz and Cabo",
+  "peso_kg": 4.56
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a7"
+  },
+  "id_producto": 36,
+  "nombre_producto": "Lenovo Cum 339",
+  "marca": "Lenovo",
+  "categoría": "Gaming",
+  "descripción": "Veritatis exercitationem harum saepe distinctio.",
+  "stock": 217,
+  "precio_usd": 936.45,
+  "descuento_porcentaje": 10,
+  "precio_final": 842.81,
+  "ubicación_bodega": "Cantabria",
+  "sku": "SKU-21834",
+  "proveedor": "Barroso-Duran",
+  "peso_kg": 10.73
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a8"
+  },
+  "id_producto": 37,
+  "nombre_producto": "Nike Itaque 729",
+  "marca": "Nike",
+  "categoría": "Computadores",
+  "descripción": "Perspiciatis distinctio molestias at tempore ut fuga.",
+  "stock": 367,
+  "precio_usd": 1018.9,
+  "descuento_porcentaje": 0,
+  "precio_final": 1018.9,
+  "ubicación_bodega": "Navarra",
+  "sku": "SKU-42248",
+  "proveedor": "Bauzà Ltd",
+  "peso_kg": 23.64
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663a9"
+  },
+  "id_producto": 38,
+  "nombre_producto": "Pioneer Architecto 718",
+  "marca": "Pioneer",
+  "categoría": "Hogar",
+  "descripción": "Quod inventore necessitatibus quasi aut quam.",
+  "stock": 473,
+  "precio_usd": 399.16,
+  "descuento_porcentaje": 10,
+  "precio_final": 359.24,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-21515",
+  "proveedor": "Andreu, Patiño and Paniagua",
+  "peso_kg": 4.44
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663aa"
+  },
+  "id_producto": 39,
+  "nombre_producto": "Samsung Perspiciatis 803",
+  "marca": "Samsung",
+  "categoría": "Hogar",
+  "descripción": "Nesciunt aliquam fuga aut.",
+  "stock": 64,
+  "precio_usd": 657.98,
+  "descuento_porcentaje": 20,
+  "precio_final": 526.38,
+  "ubicación_bodega": "Barcelona",
+  "sku": "SKU-72440",
+  "proveedor": "Chacón, Niño and Saldaña",
+  "peso_kg": 7.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ab"
+  },
+  "id_producto": 40,
+  "nombre_producto": "Lenovo Ea 422",
+  "marca": "Lenovo",
+  "categoría": "Audio",
+  "descripción": "Modi eaque perspiciatis quaerat quasi sunt corrupti.",
+  "stock": 63,
+  "precio_usd": 1904.11,
+  "descuento_porcentaje": 5,
+  "precio_final": 1808.9,
+  "ubicación_bodega": "Girona",
+  "sku": "SKU-54545",
+  "proveedor": "Marcos-Soria",
+  "peso_kg": 22.6
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ac"
+  },
+  "id_producto": 41,
+  "nombre_producto": "Xiaomi Illo 923",
+  "marca": "Xiaomi",
+  "categoría": "Ropa",
+  "descripción": "Laudantium consequuntur laborum dicta.",
+  "stock": 37,
+  "precio_usd": 843.44,
+  "descuento_porcentaje": 30,
+  "precio_final": 590.41,
+  "ubicación_bodega": "Valencia",
+  "sku": "SKU-89590",
+  "proveedor": "Checa-Sevilla",
+  "peso_kg": 19.1
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ad"
+  },
+  "id_producto": 42,
+  "nombre_producto": "Apple Adipisci 234",
+  "marca": "Apple",
+  "categoría": "Electrónica",
+  "descripción": "Vel ut fugit.",
+  "stock": 296,
+  "precio_usd": 706.15,
+  "descuento_porcentaje": 15,
+  "precio_final": 600.23,
+  "ubicación_bodega": "Toledo",
+  "sku": "SKU-65335",
+  "proveedor": "Lasa-Palomares",
+  "peso_kg": 13.47
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ae"
+  },
+  "id_producto": 43,
+  "nombre_producto": "Lenovo Autem 847",
+  "marca": "Lenovo",
+  "categoría": "Hogar",
+  "descripción": "Molestiae itaque laboriosam debitis nam.",
+  "stock": 479,
+  "precio_usd": 685.65,
+  "descuento_porcentaje": 30,
+  "precio_final": 479.95,
+  "ubicación_bodega": "Sevilla",
+  "sku": "SKU-28703",
+  "proveedor": "Pujol-Mateu",
+  "peso_kg": 15.41
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663af"
+  },
+  "id_producto": 44,
+  "nombre_producto": "Samsung Labore 793",
+  "marca": "Samsung",
+  "categoría": "Electrónica",
+  "descripción": "Dolore veritatis temporibus sint delectus molestias soluta officiis.",
+  "stock": 33,
+  "precio_usd": 57.38,
+  "descuento_porcentaje": 25,
+  "precio_final": 43.04,
+  "ubicación_bodega": "La Rioja",
+  "sku": "SKU-60328",
+  "proveedor": "Espada PLC",
+  "peso_kg": 4.94
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b0"
+  },
+  "id_producto": 45,
+  "nombre_producto": "Sony Aspernatur 220",
+  "marca": "Sony",
+  "categoría": "Hogar",
+  "descripción": "Similique at fuga sapiente impedit.",
+  "stock": 203,
+  "precio_usd": 999.07,
+  "descuento_porcentaje": 10,
+  "precio_final": 899.16,
+  "ubicación_bodega": "Huelva",
+  "sku": "SKU-02472",
+  "proveedor": "Almansa-Guardiola",
+  "peso_kg": 5.08
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b1"
+  },
+  "id_producto": 46,
+  "nombre_producto": "Sony Labore 378",
+  "marca": "Sony",
+  "categoría": "Gaming",
+  "descripción": "Minus veritatis animi aspernatur fugiat consectetur.",
+  "stock": 109,
+  "precio_usd": 1264.74,
+  "descuento_porcentaje": 25,
+  "precio_final": 948.56,
+  "ubicación_bodega": "Navarra",
+  "sku": "SKU-36272",
+  "proveedor": "Martinez Ltd",
+  "peso_kg": 18.82
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b2"
+  },
+  "id_producto": 47,
+  "nombre_producto": "Asus Dolorum 994",
+  "marca": "Asus",
+  "categoría": "Electrónica",
+  "descripción": "Distinctio eaque repellendus earum perferendis aliquam numquam.",
+  "stock": 283,
+  "precio_usd": 100.55,
+  "descuento_porcentaje": 20,
+  "precio_final": 80.44,
+  "ubicación_bodega": "Álava",
+  "sku": "SKU-37246",
+  "proveedor": "Guijarro Inc",
+  "peso_kg": 2.44
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b3"
+  },
+  "id_producto": 48,
+  "nombre_producto": "Apple Facilis 199",
+  "marca": "Apple",
+  "categoría": "Computadores",
+  "descripción": "Quasi facere expedita consequuntur repellendus.",
+  "stock": 395,
+  "precio_usd": 509.91,
+  "descuento_porcentaje": 5,
+  "precio_final": 484.41,
+  "ubicación_bodega": "Álava",
+  "sku": "SKU-81585",
+  "proveedor": "Montero PLC",
+  "peso_kg": 20.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b4"
+  },
+  "id_producto": 49,
+  "nombre_producto": "Xiaomi Earum 772",
+  "marca": "Xiaomi",
+  "categoría": "Cocina",
+  "descripción": "Animi quidem repudiandae illum sequi repellat.",
+  "stock": 103,
+  "precio_usd": 989.11,
+  "descuento_porcentaje": 10,
+  "precio_final": 890.2,
+  "ubicación_bodega": "Lleida",
+  "sku": "SKU-87559",
+  "proveedor": "Jaén Ltd",
+  "peso_kg": 7.99
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b5"
+  },
+  "id_producto": 50,
+  "nombre_producto": "Nike Consequuntur 971",
+  "marca": "Nike",
+  "categoría": "Computadores",
+  "descripción": "Recusandae deleniti aspernatur doloremque quibusdam facilis.",
+  "stock": 33,
+  "precio_usd": 1566.67,
+  "descuento_porcentaje": 5,
+  "precio_final": 1488.34,
+  "ubicación_bodega": "Palencia",
+  "sku": "SKU-22878",
+  "proveedor": "Pareja-Serrano",
+  "peso_kg": 13.97
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b6"
+  },
+  "id_producto": 51,
+  "nombre_producto": "Sony Excepturi 511",
+  "marca": "Sony",
+  "categoría": "Deportes",
+  "descripción": "Earum ad eius hic repellendus illo.",
+  "stock": 476,
+  "precio_usd": 341.09,
+  "descuento_porcentaje": 30,
+  "precio_final": 238.76,
+  "ubicación_bodega": "Almería",
+  "sku": "SKU-94625",
+  "proveedor": "Doménech and Sons",
+  "peso_kg": 0.5
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b7"
+  },
+  "id_producto": 52,
+  "nombre_producto": "HP Soluta 506",
+  "marca": "HP",
+  "categoría": "Cocina",
+  "descripción": "Vero alias atque consequatur reprehenderit.",
+  "stock": 152,
+  "precio_usd": 701.66,
+  "descuento_porcentaje": 10,
+  "precio_final": 631.49,
+  "ubicación_bodega": "Ourense",
+  "sku": "SKU-00685",
+  "proveedor": "Prieto-Revilla",
+  "peso_kg": 7.05
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b8"
+  },
+  "id_producto": 53,
+  "nombre_producto": "Adidas Inventore 791",
+  "marca": "Adidas",
+  "categoría": "Cocina",
+  "descripción": "Officiis pariatur aliquam adipisci aperiam vitae.",
+  "stock": 67,
+  "precio_usd": 1888.05,
+  "descuento_porcentaje": 20,
+  "precio_final": 1510.44,
+  "ubicación_bodega": "Tarragona",
+  "sku": "SKU-16966",
+  "proveedor": "Abril Group",
+  "peso_kg": 24.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663b9"
+  },
+  "id_producto": 54,
+  "nombre_producto": "Lenovo Quos 364",
+  "marca": "Lenovo",
+  "categoría": "Cocina",
+  "descripción": "Nisi quas ipsa recusandae cum ab molestiae deleniti.",
+  "stock": 250,
+  "precio_usd": 286.42,
+  "descuento_porcentaje": 0,
+  "precio_final": 286.42,
+  "ubicación_bodega": "Zamora",
+  "sku": "SKU-74149",
+  "proveedor": "Delgado and Sons",
+  "peso_kg": 8.9
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ba"
+  },
+  "id_producto": 55,
+  "nombre_producto": "Nike Accusamus 162",
+  "marca": "Nike",
+  "categoría": "Audio",
+  "descripción": "Omnis illum adipisci eveniet.",
+  "stock": 55,
+  "precio_usd": 1973.18,
+  "descuento_porcentaje": 20,
+  "precio_final": 1578.54,
+  "ubicación_bodega": "Granada",
+  "sku": "SKU-14354",
+  "proveedor": "Barreda Ltd",
+  "peso_kg": 17.23
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663bb"
+  },
+  "id_producto": 56,
+  "nombre_producto": "Apple Iste 203",
+  "marca": "Apple",
+  "categoría": "Audio",
+  "descripción": "Cupiditate fuga necessitatibus consequatur quae earum doloribus.",
+  "stock": 146,
+  "precio_usd": 1640.05,
+  "descuento_porcentaje": 0,
+  "precio_final": 1640.05,
+  "ubicación_bodega": "Ourense",
+  "sku": "SKU-91972",
+  "proveedor": "Alcántara, Izquierdo and Andres",
+  "peso_kg": 17.75
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663bc"
+  },
+  "id_producto": 57,
+  "nombre_producto": "Apple Aspernatur 294",
+  "marca": "Apple",
+  "categoría": "Gaming",
+  "descripción": "Vitae cum dolorum aliquam.",
+  "stock": 229,
+  "precio_usd": 169.82,
+  "descuento_porcentaje": 5,
+  "precio_final": 161.33,
+  "ubicación_bodega": "Valladolid",
+  "sku": "SKU-66656",
+  "proveedor": "Maldonado-Bastida",
+  "peso_kg": 1.86
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663bd"
+  },
+  "id_producto": 58,
+  "nombre_producto": "Nike Quae 437",
+  "marca": "Nike",
+  "categoría": "Electrónica",
+  "descripción": "Nostrum autem totam doloremque saepe quo.",
+  "stock": 82,
+  "precio_usd": 745.73,
+  "descuento_porcentaje": 30,
+  "precio_final": 522.01,
+  "ubicación_bodega": "Huesca",
+  "sku": "SKU-04240",
+  "proveedor": "Porcel-Piña",
+  "peso_kg": 11.17
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663be"
+  },
+  "id_producto": 59,
+  "nombre_producto": "Pioneer Reprehenderit 445",
+  "marca": "Pioneer",
+  "categoría": "Ropa",
+  "descripción": "Minima odit sint accusamus.",
+  "stock": 373,
+  "precio_usd": 1532.48,
+  "descuento_porcentaje": 15,
+  "precio_final": 1302.61,
+  "ubicación_bodega": "Albacete",
+  "sku": "SKU-99933",
+  "proveedor": "Linares-Carrillo",
+  "peso_kg": 17.98
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663bf"
+  },
+  "id_producto": 60,
+  "nombre_producto": "Samsung Fuga 907",
+  "marca": "Samsung",
+  "categoría": "Cocina",
+  "descripción": "Ullam numquam rem officia tempora maxime.",
+  "stock": 263,
+  "precio_usd": 336.27,
+  "descuento_porcentaje": 10,
+  "precio_final": 302.64,
+  "ubicación_bodega": "Ourense",
+  "sku": "SKU-51627",
+  "proveedor": "Estevez LLC",
+  "peso_kg": 0.26
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c0"
+  },
+  "id_producto": 61,
+  "nombre_producto": "HP Quis 927",
+  "marca": "HP",
+  "categoría": "Ropa",
+  "descripción": "Atque eos autem optio ratione placeat impedit.",
+  "stock": 7,
+  "precio_usd": 854.14,
+  "descuento_porcentaje": 0,
+  "precio_final": 854.14,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-23444",
+  "proveedor": "Canals-Goñi",
+  "peso_kg": 17.75
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c1"
+  },
+  "id_producto": 62,
+  "nombre_producto": "Xiaomi Corporis 379",
+  "marca": "Xiaomi",
+  "categoría": "Belleza",
+  "descripción": "Saepe doloribus iure tempore.",
+  "stock": 213,
+  "precio_usd": 139.71,
+  "descuento_porcentaje": 20,
+  "precio_final": 111.77,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-00293",
+  "proveedor": "Palomar, Luque and Pinilla",
+  "peso_kg": 20.61
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c2"
+  },
+  "id_producto": 63,
+  "nombre_producto": "Asus Sint 108",
+  "marca": "Asus",
+  "categoría": "Hogar",
+  "descripción": "Illum architecto atque esse accusamus possimus consequuntur.",
+  "stock": 8,
+  "precio_usd": 1450.22,
+  "descuento_porcentaje": 25,
+  "precio_final": 1087.66,
+  "ubicación_bodega": "Palencia",
+  "sku": "SKU-29704",
+  "proveedor": "Boada Ltd",
+  "peso_kg": 21.66
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c3"
+  },
+  "id_producto": 64,
+  "nombre_producto": "Acer Veniam 637",
+  "marca": "Acer",
+  "categoría": "Electrónica",
+  "descripción": "Odio natus eligendi autem.",
+  "stock": 137,
+  "precio_usd": 639.72,
+  "descuento_porcentaje": 25,
+  "precio_final": 479.79,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-21390",
+  "proveedor": "Arias, Mayol and Isern",
+  "peso_kg": 24.58
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c4"
+  },
+  "id_producto": 65,
+  "nombre_producto": "HP Numquam 651",
+  "marca": "HP",
+  "categoría": "Ropa",
+  "descripción": "Cumque nisi labore.",
+  "stock": 391,
+  "precio_usd": 1580.08,
+  "descuento_porcentaje": 0,
+  "precio_final": 1580.08,
+  "ubicación_bodega": "Huesca",
+  "sku": "SKU-90088",
+  "proveedor": "Donoso PLC",
+  "peso_kg": 9.97
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c5"
+  },
+  "id_producto": 66,
+  "nombre_producto": "Xiaomi Iste 635",
+  "marca": "Xiaomi",
+  "categoría": "Deportes",
+  "descripción": "Quidem numquam in sit maxime ut tenetur.",
+  "stock": 284,
+  "precio_usd": 376.68,
+  "descuento_porcentaje": 25,
+  "precio_final": 282.51,
+  "ubicación_bodega": "Granada",
+  "sku": "SKU-93087",
+  "proveedor": "Abascal LLC",
+  "peso_kg": 24.16
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c6"
+  },
+  "id_producto": 67,
+  "nombre_producto": "Acer Id 668",
+  "marca": "Acer",
+  "categoría": "Electrónica",
+  "descripción": "Porro exercitationem eaque nisi nisi sint.",
+  "stock": 313,
+  "precio_usd": 267.08,
+  "descuento_porcentaje": 30,
+  "precio_final": 186.96,
+  "ubicación_bodega": "Soria",
+  "sku": "SKU-57727",
+  "proveedor": "Sancho, Cal and Morante",
+  "peso_kg": 7.65
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c7"
+  },
+  "id_producto": 68,
+  "nombre_producto": "Acer Hic 161",
+  "marca": "Acer",
+  "categoría": "Computadores",
+  "descripción": "Natus at enim dicta exercitationem.",
+  "stock": 336,
+  "precio_usd": 363.53,
+  "descuento_porcentaje": 0,
+  "precio_final": 363.53,
+  "ubicación_bodega": "Zaragoza",
+  "sku": "SKU-04968",
+  "proveedor": "Quintanilla, Bosch and Belda",
+  "peso_kg": 14.29
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c8"
+  },
+  "id_producto": 69,
+  "nombre_producto": "Xiaomi Ea 578",
+  "marca": "Xiaomi",
+  "categoría": "Belleza",
+  "descripción": "Perferendis veritatis et sunt sunt deserunt possimus.",
+  "stock": 6,
+  "precio_usd": 168.22,
+  "descuento_porcentaje": 30,
+  "precio_final": 117.75,
+  "ubicación_bodega": "Tarragona",
+  "sku": "SKU-62449",
+  "proveedor": "Ruiz PLC",
+  "peso_kg": 18.94
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663c9"
+  },
+  "id_producto": 70,
+  "nombre_producto": "Asus Consectetur 133",
+  "marca": "Asus",
+  "categoría": "Audio",
+  "descripción": "Consequatur optio quo praesentium dolore sit.",
+  "stock": 414,
+  "precio_usd": 46.17,
+  "descuento_porcentaje": 0,
+  "precio_final": 46.17,
+  "ubicación_bodega": "Pontevedra",
+  "sku": "SKU-50248",
+  "proveedor": "Alba, Mayoral and Coloma",
+  "peso_kg": 3.96
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ca"
+  },
+  "id_producto": 71,
+  "nombre_producto": "LG Nobis 943",
+  "marca": "LG",
+  "categoría": "Hogar",
+  "descripción": "Nobis quia maiores corrupti.",
+  "stock": 146,
+  "precio_usd": 1011.07,
+  "descuento_porcentaje": 5,
+  "precio_final": 960.52,
+  "ubicación_bodega": "Valladolid",
+  "sku": "SKU-94410",
+  "proveedor": "Villena Ltd",
+  "peso_kg": 0.21
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663cb"
+  },
+  "id_producto": 72,
+  "nombre_producto": "Xiaomi Optio 638",
+  "marca": "Xiaomi",
+  "categoría": "Cocina",
+  "descripción": "Reiciendis incidunt labore eaque id distinctio.",
+  "stock": 293,
+  "precio_usd": 141.05,
+  "descuento_porcentaje": 20,
+  "precio_final": 112.84,
+  "ubicación_bodega": "Pontevedra",
+  "sku": "SKU-11088",
+  "proveedor": "Plaza-Barberá",
+  "peso_kg": 10.7
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663cc"
+  },
+  "id_producto": 73,
+  "nombre_producto": "Nike Magnam 205",
+  "marca": "Nike",
+  "categoría": "Hogar",
+  "descripción": "Doloribus fugit id tempore nemo non.",
+  "stock": 445,
+  "precio_usd": 1936.76,
+  "descuento_porcentaje": 15,
+  "precio_final": 1646.25,
+  "ubicación_bodega": "Barcelona",
+  "sku": "SKU-10640",
+  "proveedor": "Anguita-Otero",
+  "peso_kg": 14.11
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663cd"
+  },
+  "id_producto": 74,
+  "nombre_producto": "Acer Voluptatibus 927",
+  "marca": "Acer",
+  "categoría": "Cocina",
+  "descripción": "In molestiae ipsam.",
+  "stock": 224,
+  "precio_usd": 1337.98,
+  "descuento_porcentaje": 0,
+  "precio_final": 1337.98,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-31564",
+  "proveedor": "Font, Valverde and Martín",
+  "peso_kg": 7.51
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ce"
+  },
+  "id_producto": 75,
+  "nombre_producto": "LG Inventore 715",
+  "marca": "LG",
+  "categoría": "Ropa",
+  "descripción": "Incidunt minus eveniet dignissimos error ex dolore minima.",
+  "stock": 200,
+  "precio_usd": 287.24,
+  "descuento_porcentaje": 10,
+  "precio_final": 258.52,
+  "ubicación_bodega": "Cuenca",
+  "sku": "SKU-61759",
+  "proveedor": "Conde and Sons",
+  "peso_kg": 14.57
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663cf"
+  },
+  "id_producto": 76,
+  "nombre_producto": "Nike At 145",
+  "marca": "Nike",
+  "categoría": "Cocina",
+  "descripción": "Aperiam magni perferendis quis voluptates.",
+  "stock": 342,
+  "precio_usd": 1346.99,
+  "descuento_porcentaje": 25,
+  "precio_final": 1010.24,
+  "ubicación_bodega": "Lugo",
+  "sku": "SKU-42976",
+  "proveedor": "Carbajo Inc",
+  "peso_kg": 10.31
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d0"
+  },
+  "id_producto": 77,
+  "nombre_producto": "Pioneer Eveniet 137",
+  "marca": "Pioneer",
+  "categoría": "Audio",
+  "descripción": "Quisquam iure eveniet sequi modi.",
+  "stock": 338,
+  "precio_usd": 1702.83,
+  "descuento_porcentaje": 5,
+  "precio_final": 1617.69,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-76331",
+  "proveedor": "Mayoral, Mas and Soria",
+  "peso_kg": 23.85
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d1"
+  },
+  "id_producto": 78,
+  "nombre_producto": "Acer Quam 605",
+  "marca": "Acer",
+  "categoría": "Cocina",
+  "descripción": "Modi quis optio dolorum impedit officiis.",
+  "stock": 85,
+  "precio_usd": 954.42,
+  "descuento_porcentaje": 5,
+  "precio_final": 906.7,
+  "ubicación_bodega": "Soria",
+  "sku": "SKU-51452",
+  "proveedor": "Garcia LLC",
+  "peso_kg": 22.26
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d2"
+  },
+  "id_producto": 79,
+  "nombre_producto": "HP Reprehenderit 776",
+  "marca": "HP",
+  "categoría": "Audio",
+  "descripción": "Corrupti praesentium tempore possimus impedit error nobis.",
+  "stock": 235,
+  "precio_usd": 1485.99,
+  "descuento_porcentaje": 20,
+  "precio_final": 1188.79,
+  "ubicación_bodega": "Tarragona",
+  "sku": "SKU-92404",
+  "proveedor": "Hoyos-Franco",
+  "peso_kg": 7.44
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d3"
+  },
+  "id_producto": 80,
+  "nombre_producto": "Acer Eum 403",
+  "marca": "Acer",
+  "categoría": "Computadores",
+  "descripción": "Iste repellendus voluptas consequatur odit unde reiciendis.",
+  "stock": 395,
+  "precio_usd": 1046.42,
+  "descuento_porcentaje": 30,
+  "precio_final": 732.49,
+  "ubicación_bodega": "Almería",
+  "sku": "SKU-13411",
+  "proveedor": "Laguna, Chaparro and Pi",
+  "peso_kg": 20.62
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d4"
+  },
+  "id_producto": 81,
+  "nombre_producto": "Samsung Iste 618",
+  "marca": "Samsung",
+  "categoría": "Deportes",
+  "descripción": "Ipsam voluptas vero quas consequatur consequuntur.",
+  "stock": 112,
+  "precio_usd": 1860.04,
+  "descuento_porcentaje": 0,
+  "precio_final": 1860.04,
+  "ubicación_bodega": "Alicante",
+  "sku": "SKU-27932",
+  "proveedor": "Martín, Briones and Martorell",
+  "peso_kg": 24.47
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d5"
+  },
+  "id_producto": 82,
+  "nombre_producto": "Apple Illum 178",
+  "marca": "Apple",
+  "categoría": "Electrónica",
+  "descripción": "Maiores facere maxime est.",
+  "stock": 105,
+  "precio_usd": 1552.89,
+  "descuento_porcentaje": 25,
+  "precio_final": 1164.67,
+  "ubicación_bodega": "Segovia",
+  "sku": "SKU-16389",
+  "proveedor": "Hernando PLC",
+  "peso_kg": 21.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d6"
+  },
+  "id_producto": 83,
+  "nombre_producto": "Acer Corporis 312",
+  "marca": "Acer",
+  "categoría": "Ropa",
+  "descripción": "Molestias quibusdam blanditiis quas quidem voluptatem optio.",
+  "stock": 1,
+  "precio_usd": 1062.04,
+  "descuento_porcentaje": 30,
+  "precio_final": 743.43,
+  "ubicación_bodega": "Asturias",
+  "sku": "SKU-72472",
+  "proveedor": "Carpio-Melero",
+  "peso_kg": 11.78
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d7"
+  },
+  "id_producto": 84,
+  "nombre_producto": "Sony Tenetur 581",
+  "marca": "Sony",
+  "categoría": "Gaming",
+  "descripción": "Unde pariatur facilis excepturi rem quod molestiae.",
+  "stock": 77,
+  "precio_usd": 173.72,
+  "descuento_porcentaje": 10,
+  "precio_final": 156.35,
+  "ubicación_bodega": "Ciudad",
+  "sku": "SKU-21674",
+  "proveedor": "Marco-Correa",
+  "peso_kg": 0.93
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d8"
+  },
+  "id_producto": 85,
+  "nombre_producto": "Xiaomi Quibusdam 793",
+  "marca": "Xiaomi",
+  "categoría": "Audio",
+  "descripción": "Tempora deleniti amet corporis rem a.",
+  "stock": 229,
+  "precio_usd": 1467.77,
+  "descuento_porcentaje": 25,
+  "precio_final": 1100.83,
+  "ubicación_bodega": "Álava",
+  "sku": "SKU-16657",
+  "proveedor": "Carmona-Núñez",
+  "peso_kg": 22.45
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663d9"
+  },
+  "id_producto": 86,
+  "nombre_producto": "Acer Sapiente 292",
+  "marca": "Acer",
+  "categoría": "Audio",
+  "descripción": "Quia ipsa minima.",
+  "stock": 276,
+  "precio_usd": 1671.78,
+  "descuento_porcentaje": 20,
+  "precio_final": 1337.42,
+  "ubicación_bodega": "Alicante",
+  "sku": "SKU-86009",
+  "proveedor": "Gual, Calvo and Conde",
+  "peso_kg": 3.65
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663da"
+  },
+  "id_producto": 87,
+  "nombre_producto": "Nike Quam 641",
+  "marca": "Nike",
+  "categoría": "Cocina",
+  "descripción": "Voluptatibus illum harum sapiente.",
+  "stock": 384,
+  "precio_usd": 98.62,
+  "descuento_porcentaje": 30,
+  "precio_final": 69.03,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-64342",
+  "proveedor": "Olmedo-Lerma",
+  "peso_kg": 13.64
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663db"
+  },
+  "id_producto": 88,
+  "nombre_producto": "LG Vel 349",
+  "marca": "LG",
+  "categoría": "Belleza",
+  "descripción": "Nesciunt omnis doloribus vitae nihil doloremque.",
+  "stock": 6,
+  "precio_usd": 1995.59,
+  "descuento_porcentaje": 20,
+  "precio_final": 1596.47,
+  "ubicación_bodega": "Guadalajara",
+  "sku": "SKU-76061",
+  "proveedor": "Gascón-Aller",
+  "peso_kg": 3.21
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663dc"
+  },
+  "id_producto": 89,
+  "nombre_producto": "Xiaomi Aliquam 151",
+  "marca": "Xiaomi",
+  "categoría": "Hogar",
+  "descripción": "Magni accusantium rerum ipsa nihil.",
+  "stock": 315,
+  "precio_usd": 1858.87,
+  "descuento_porcentaje": 5,
+  "precio_final": 1765.93,
+  "ubicación_bodega": "Cádiz",
+  "sku": "SKU-09477",
+  "proveedor": "Sarmiento-Mosquera",
+  "peso_kg": 23.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663dd"
+  },
+  "id_producto": 90,
+  "nombre_producto": "Acer Ex 840",
+  "marca": "Acer",
+  "categoría": "Deportes",
+  "descripción": "Quasi consequuntur dolorum voluptatem.",
+  "stock": 215,
+  "precio_usd": 12.25,
+  "descuento_porcentaje": 30,
+  "precio_final": 8.57,
+  "ubicación_bodega": "Valencia",
+  "sku": "SKU-81978",
+  "proveedor": "Gascón, Jaén and Tena",
+  "peso_kg": 14.21
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663de"
+  },
+  "id_producto": 91,
+  "nombre_producto": "Acer Consequatur 631",
+  "marca": "Acer",
+  "categoría": "Computadores",
+  "descripción": "Perspiciatis consequuntur animi exercitationem quo.",
+  "stock": 325,
+  "precio_usd": 162.25,
+  "descuento_porcentaje": 0,
+  "precio_final": 162.25,
+  "ubicación_bodega": "Ciudad",
+  "sku": "SKU-92013",
+  "proveedor": "Agustín-Marqués",
+  "peso_kg": 21.18
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663df"
+  },
+  "id_producto": 92,
+  "nombre_producto": "Sony Esse 841",
+  "marca": "Sony",
+  "categoría": "Ropa",
+  "descripción": "Fuga illo consequuntur.",
+  "stock": 83,
+  "precio_usd": 318.25,
+  "descuento_porcentaje": 20,
+  "precio_final": 254.6,
+  "ubicación_bodega": "Huesca",
+  "sku": "SKU-56113",
+  "proveedor": "Conde, Dominguez and Hierro",
+  "peso_kg": 24.12
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e0"
+  },
+  "id_producto": 93,
+  "nombre_producto": "LG Quaerat 775",
+  "marca": "LG",
+  "categoría": "Electrónica",
+  "descripción": "Ab optio qui cum amet.",
+  "stock": 415,
+  "precio_usd": 439.16,
+  "descuento_porcentaje": 15,
+  "precio_final": 373.29,
+  "ubicación_bodega": "Salamanca",
+  "sku": "SKU-98636",
+  "proveedor": "Múñiz and Sons",
+  "peso_kg": 10.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e1"
+  },
+  "id_producto": 94,
+  "nombre_producto": "Pioneer Officiis 524",
+  "marca": "Pioneer",
+  "categoría": "Ropa",
+  "descripción": "Cupiditate porro dolore repellat fugiat.",
+  "stock": 332,
+  "precio_usd": 360.55,
+  "descuento_porcentaje": 20,
+  "precio_final": 288.44,
+  "ubicación_bodega": "Badajoz",
+  "sku": "SKU-34553",
+  "proveedor": "Moreno Group",
+  "peso_kg": 4.69
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e2"
+  },
+  "id_producto": 95,
+  "nombre_producto": "Apple Rerum 512",
+  "marca": "Apple",
+  "categoría": "Belleza",
+  "descripción": "Suscipit quasi eum debitis quas.",
+  "stock": 237,
+  "precio_usd": 1716.93,
+  "descuento_porcentaje": 15,
+  "precio_final": 1459.39,
+  "ubicación_bodega": "Sevilla",
+  "sku": "SKU-16122",
+  "proveedor": "Bernat, Segarra and Laguna",
+  "peso_kg": 21.56
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e3"
+  },
+  "id_producto": 96,
+  "nombre_producto": "LG Eius 774",
+  "marca": "LG",
+  "categoría": "Electrónica",
+  "descripción": "Magnam dignissimos aperiam fugit aliquid aspernatur minus.",
+  "stock": 9,
+  "precio_usd": 920.26,
+  "descuento_porcentaje": 30,
+  "precio_final": 644.18,
+  "ubicación_bodega": "Huelva",
+  "sku": "SKU-45882",
+  "proveedor": "Villegas LLC",
+  "peso_kg": 24.93
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e4"
+  },
+  "id_producto": 97,
+  "nombre_producto": "Lenovo Quis 158",
+  "marca": "Lenovo",
+  "categoría": "Deportes",
+  "descripción": "Fugiat ducimus qui perspiciatis adipisci.",
+  "stock": 202,
+  "precio_usd": 778.3,
+  "descuento_porcentaje": 0,
+  "precio_final": 778.3,
+  "ubicación_bodega": "Badajoz",
+  "sku": "SKU-68723",
+  "proveedor": "Jara-Acosta",
+  "peso_kg": 17.35
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e5"
+  },
+  "id_producto": 98,
+  "nombre_producto": "Asus Earum 156",
+  "marca": "Asus",
+  "categoría": "Ropa",
+  "descripción": "Minus ullam tenetur earum vel sed.",
+  "stock": 392,
+  "precio_usd": 158.5,
+  "descuento_porcentaje": 10,
+  "precio_final": 142.65,
+  "ubicación_bodega": "Granada",
+  "sku": "SKU-73269",
+  "proveedor": "Manjón Ltd",
+  "peso_kg": 6.48
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e6"
+  },
+  "id_producto": 99,
+  "nombre_producto": "Nike Fugit 854",
+  "marca": "Nike",
+  "categoría": "Hogar",
+  "descripción": "Aliquam quaerat facere.",
+  "stock": 211,
+  "precio_usd": 1419.59,
+  "descuento_porcentaje": 25,
+  "precio_final": 1064.69,
+  "ubicación_bodega": "La Rioja",
+  "sku": "SKU-41877",
+  "proveedor": "Lozano, Carvajal and Zorrilla",
+  "peso_kg": 12.24
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e7"
+  },
+  "id_producto": 100,
+  "nombre_producto": "Acer Quia 668",
+  "marca": "Acer",
+  "categoría": "Belleza",
+  "descripción": "Ab cumque suscipit deserunt rerum dolorum.",
+  "stock": 164,
+  "precio_usd": 397.93,
+  "descuento_porcentaje": 25,
+  "precio_final": 298.45,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-76234",
+  "proveedor": "Santiago, Cáceres and Nogueira",
+  "peso_kg": 16.6
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e8"
+  },
+  "id_producto": 101,
+  "nombre_producto": "Xiaomi Odio 381",
+  "marca": "Xiaomi",
+  "categoría": "Cocina",
+  "descripción": "Tempora nobis modi nam ratione quod.",
+  "stock": 247,
+  "precio_usd": 173.26,
+  "descuento_porcentaje": 0,
+  "precio_final": 173.26,
+  "ubicación_bodega": "Tarragona",
+  "sku": "SKU-62380",
+  "proveedor": "Bueno, Gargallo and Sales",
+  "peso_kg": 9.27
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663e9"
+  },
+  "id_producto": 102,
+  "nombre_producto": "Pioneer Iure 113",
+  "marca": "Pioneer",
+  "categoría": "Deportes",
+  "descripción": "Ducimus deleniti ea laboriosam architecto molestiae incidunt.",
+  "stock": 140,
+  "precio_usd": 1764.16,
+  "descuento_porcentaje": 20,
+  "precio_final": 1411.33,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-93968",
+  "proveedor": "Andres-Barceló",
+  "peso_kg": 24.93
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ea"
+  },
+  "id_producto": 103,
+  "nombre_producto": "Asus Dicta 561",
+  "marca": "Asus",
+  "categoría": "Audio",
+  "descripción": "Ullam quas blanditiis voluptatibus vel architecto harum.",
+  "stock": 372,
+  "precio_usd": 1677.73,
+  "descuento_porcentaje": 30,
+  "precio_final": 1174.41,
+  "ubicación_bodega": "Asturias",
+  "sku": "SKU-49259",
+  "proveedor": "Barbero-Lobato",
+  "peso_kg": 20.25
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663eb"
+  },
+  "id_producto": 104,
+  "nombre_producto": "Apple Unde 708",
+  "marca": "Apple",
+  "categoría": "Gaming",
+  "descripción": "Ut impedit similique fugiat cumque eius dolorem.",
+  "stock": 444,
+  "precio_usd": 1746.07,
+  "descuento_porcentaje": 15,
+  "precio_final": 1484.16,
+  "ubicación_bodega": "Navarra",
+  "sku": "SKU-46934",
+  "proveedor": "Torrens Ltd",
+  "peso_kg": 19.6
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ec"
+  },
+  "id_producto": 105,
+  "nombre_producto": "Xiaomi Doloribus 945",
+  "marca": "Xiaomi",
+  "categoría": "Gaming",
+  "descripción": "Fuga in fuga dignissimos deserunt magnam.",
+  "stock": 388,
+  "precio_usd": 875.06,
+  "descuento_porcentaje": 25,
+  "precio_final": 656.29,
+  "ubicación_bodega": "Melilla",
+  "sku": "SKU-35315",
+  "proveedor": "Urrutia-Montalbán",
+  "peso_kg": 11.01
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ed"
+  },
+  "id_producto": 106,
+  "nombre_producto": "Asus Facere 314",
+  "marca": "Asus",
+  "categoría": "Cocina",
+  "descripción": "Necessitatibus officiis incidunt sint delectus.",
+  "stock": 72,
+  "precio_usd": 446.51,
+  "descuento_porcentaje": 25,
+  "precio_final": 334.88,
+  "ubicación_bodega": "Lugo",
+  "sku": "SKU-07863",
+  "proveedor": "Mármol Inc",
+  "peso_kg": 4.1
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ee"
+  },
+  "id_producto": 107,
+  "nombre_producto": "Xiaomi Adipisci 736",
+  "marca": "Xiaomi",
+  "categoría": "Gaming",
+  "descripción": "Id earum asperiores fugit facere.",
+  "stock": 123,
+  "precio_usd": 554.95,
+  "descuento_porcentaje": 0,
+  "precio_final": 554.95,
+  "ubicación_bodega": "Navarra",
+  "sku": "SKU-73175",
+  "proveedor": "Castells, Valderrama and Tovar",
+  "peso_kg": 24.58
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ef"
+  },
+  "id_producto": 108,
+  "nombre_producto": "Sony Corporis 969",
+  "marca": "Sony",
+  "categoría": "Deportes",
+  "descripción": "Illum ullam placeat error.",
+  "stock": 166,
+  "precio_usd": 741.29,
+  "descuento_porcentaje": 30,
+  "precio_final": 518.9,
+  "ubicación_bodega": "La Coruña",
+  "sku": "SKU-71302",
+  "proveedor": "Simó and Sons",
+  "peso_kg": 3.55
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f0"
+  },
+  "id_producto": 109,
+  "nombre_producto": "Adidas Fuga 763",
+  "marca": "Adidas",
+  "categoría": "Belleza",
+  "descripción": "Doloribus libero quidem in excepturi recusandae hic.",
+  "stock": 453,
+  "precio_usd": 709.82,
+  "descuento_porcentaje": 30,
+  "precio_final": 496.87,
+  "ubicación_bodega": "Lleida",
+  "sku": "SKU-87740",
+  "proveedor": "Baeza Group",
+  "peso_kg": 18.74
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f1"
+  },
+  "id_producto": 110,
+  "nombre_producto": "Sony Tenetur 654",
+  "marca": "Sony",
+  "categoría": "Belleza",
+  "descripción": "Nisi deleniti commodi vel excepturi iure est consequuntur.",
+  "stock": 161,
+  "precio_usd": 1373.91,
+  "descuento_porcentaje": 5,
+  "precio_final": 1305.21,
+  "ubicación_bodega": "Pontevedra",
+  "sku": "SKU-03998",
+  "proveedor": "Sanchez Inc",
+  "peso_kg": 13.7
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f2"
+  },
+  "id_producto": 111,
+  "nombre_producto": "HP Nulla 700",
+  "marca": "HP",
+  "categoría": "Audio",
+  "descripción": "Repellat laborum corrupti harum possimus assumenda.",
+  "stock": 419,
+  "precio_usd": 1093.34,
+  "descuento_porcentaje": 15,
+  "precio_final": 929.34,
+  "ubicación_bodega": "Burgos",
+  "sku": "SKU-33680",
+  "proveedor": "Leal PLC",
+  "peso_kg": 21.39
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f3"
+  },
+  "id_producto": 112,
+  "nombre_producto": "Asus Animi 292",
+  "marca": "Asus",
+  "categoría": "Deportes",
+  "descripción": "Quas earum architecto voluptatum neque accusantium est.",
+  "stock": 417,
+  "precio_usd": 180.06,
+  "descuento_porcentaje": 0,
+  "precio_final": 180.06,
+  "ubicación_bodega": "Baleares",
+  "sku": "SKU-50078",
+  "proveedor": "Herranz Ltd",
+  "peso_kg": 3.63
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f4"
+  },
+  "id_producto": 113,
+  "nombre_producto": "Apple Minima 611",
+  "marca": "Apple",
+  "categoría": "Electrónica",
+  "descripción": "Amet explicabo nulla dolorum placeat autem repellendus.",
+  "stock": 248,
+  "precio_usd": 1594.06,
+  "descuento_porcentaje": 15,
+  "precio_final": 1354.95,
+  "ubicación_bodega": "Jaén",
+  "sku": "SKU-03698",
+  "proveedor": "Olivé, Izaguirre and Fuster",
+  "peso_kg": 0.28
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f5"
+  },
+  "id_producto": 114,
+  "nombre_producto": "HP Odit 399",
+  "marca": "HP",
+  "categoría": "Belleza",
+  "descripción": "Quidem eligendi consequuntur quia atque quas at.",
+  "stock": 88,
+  "precio_usd": 1027.61,
+  "descuento_porcentaje": 15,
+  "precio_final": 873.47,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-25438",
+  "proveedor": "Ferrera-Cardona",
+  "peso_kg": 17.6
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f6"
+  },
+  "id_producto": 115,
+  "nombre_producto": "LG Iusto 768",
+  "marca": "LG",
+  "categoría": "Gaming",
+  "descripción": "Voluptates error maxime nesciunt numquam magnam ad odio.",
+  "stock": 443,
+  "precio_usd": 1138.49,
+  "descuento_porcentaje": 0,
+  "precio_final": 1138.49,
+  "ubicación_bodega": "Álava",
+  "sku": "SKU-81965",
+  "proveedor": "Ferrández Ltd",
+  "peso_kg": 16.22
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f7"
+  },
+  "id_producto": 116,
+  "nombre_producto": "LG Dolores 779",
+  "marca": "LG",
+  "categoría": "Electrónica",
+  "descripción": "Commodi provident asperiores autem consectetur quos asperiores.",
+  "stock": 405,
+  "precio_usd": 1369.27,
+  "descuento_porcentaje": 0,
+  "precio_final": 1369.27,
+  "ubicación_bodega": "Lugo",
+  "sku": "SKU-84910",
+  "proveedor": "Arco, Solera and Gutiérrez",
+  "peso_kg": 11.31
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f8"
+  },
+  "id_producto": 117,
+  "nombre_producto": "HP Occaecati 391",
+  "marca": "HP",
+  "categoría": "Hogar",
+  "descripción": "Hic quaerat quae non.",
+  "stock": 117,
+  "precio_usd": 1032.76,
+  "descuento_porcentaje": 15,
+  "precio_final": 877.85,
+  "ubicación_bodega": "Zaragoza",
+  "sku": "SKU-05994",
+  "proveedor": "Perera, Cerro and Pineda",
+  "peso_kg": 19.48
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663f9"
+  },
+  "id_producto": 118,
+  "nombre_producto": "Sony Quod 537",
+  "marca": "Sony",
+  "categoría": "Computadores",
+  "descripción": "Esse recusandae autem dolorum.",
+  "stock": 31,
+  "precio_usd": 37.04,
+  "descuento_porcentaje": 25,
+  "precio_final": 27.78,
+  "ubicación_bodega": "Huelva",
+  "sku": "SKU-06395",
+  "proveedor": "Garriga, Goicoechea and Medina",
+  "peso_kg": 22.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663fa"
+  },
+  "id_producto": 119,
+  "nombre_producto": "LG Molestias 965",
+  "marca": "LG",
+  "categoría": "Computadores",
+  "descripción": "Debitis aspernatur sit numquam ipsum eaque minus laudantium.",
+  "stock": 295,
+  "precio_usd": 331.49,
+  "descuento_porcentaje": 15,
+  "precio_final": 281.77,
+  "ubicación_bodega": "Albacete",
+  "sku": "SKU-23053",
+  "proveedor": "Bustamante, Castro and Acevedo",
+  "peso_kg": 24.81
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663fb"
+  },
+  "id_producto": 120,
+  "nombre_producto": "Nike Similique 705",
+  "marca": "Nike",
+  "categoría": "Audio",
+  "descripción": "Itaque nam praesentium quo cum labore quasi.",
+  "stock": 9,
+  "precio_usd": 1504.96,
+  "descuento_porcentaje": 20,
+  "precio_final": 1203.97,
+  "ubicación_bodega": "Almería",
+  "sku": "SKU-98713",
+  "proveedor": "Gracia Ltd",
+  "peso_kg": 10.9
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663fc"
+  },
+  "id_producto": 121,
+  "nombre_producto": "Pioneer Id 539",
+  "marca": "Pioneer",
+  "categoría": "Cocina",
+  "descripción": "Iure accusamus nam maiores quam commodi illo dignissimos.",
+  "stock": 492,
+  "precio_usd": 823.3,
+  "descuento_porcentaje": 20,
+  "precio_final": 658.64,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-03119",
+  "proveedor": "Guardiola Ltd",
+  "peso_kg": 11.59
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663fd"
+  },
+  "id_producto": 122,
+  "nombre_producto": "Samsung Totam 989",
+  "marca": "Samsung",
+  "categoría": "Audio",
+  "descripción": "Perferendis atque et necessitatibus.",
+  "stock": 186,
+  "precio_usd": 35.38,
+  "descuento_porcentaje": 25,
+  "precio_final": 26.54,
+  "ubicación_bodega": "Badajoz",
+  "sku": "SKU-74726",
+  "proveedor": "Barrena, Morcillo and Aguado",
+  "peso_kg": 10.2
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663fe"
+  },
+  "id_producto": 123,
+  "nombre_producto": "Apple Ratione 232",
+  "marca": "Apple",
+  "categoría": "Cocina",
+  "descripción": "Odio explicabo pariatur eaque libero molestiae perferendis.",
+  "stock": 229,
+  "precio_usd": 256.76,
+  "descuento_porcentaje": 10,
+  "precio_final": 231.08,
+  "ubicación_bodega": "Huesca",
+  "sku": "SKU-96633",
+  "proveedor": "Alvarez-Pallarès",
+  "peso_kg": 19
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca663ff"
+  },
+  "id_producto": 124,
+  "nombre_producto": "Asus Occaecati 687",
+  "marca": "Asus",
+  "categoría": "Belleza",
+  "descripción": "Corporis recusandae soluta voluptate provident voluptatum illum.",
+  "stock": 386,
+  "precio_usd": 1762.21,
+  "descuento_porcentaje": 15,
+  "precio_final": 1497.88,
+  "ubicación_bodega": "Málaga",
+  "sku": "SKU-81665",
+  "proveedor": "Mesa-Valbuena",
+  "peso_kg": 22.88
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66400"
+  },
+  "id_producto": 125,
+  "nombre_producto": "Pioneer Dolorum 658",
+  "marca": "Pioneer",
+  "categoría": "Hogar",
+  "descripción": "Sint ea laborum fugiat.",
+  "stock": 335,
+  "precio_usd": 189,
+  "descuento_porcentaje": 30,
+  "precio_final": 132.3,
+  "ubicación_bodega": "Jaén",
+  "sku": "SKU-78430",
+  "proveedor": "Ramón, Viñas and Canet",
+  "peso_kg": 10.09
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66401"
+  },
+  "id_producto": 126,
+  "nombre_producto": "LG Excepturi 956",
+  "marca": "LG",
+  "categoría": "Cocina",
+  "descripción": "Optio inventore et voluptate pariatur molestias.",
+  "stock": 438,
+  "precio_usd": 1341.24,
+  "descuento_porcentaje": 0,
+  "precio_final": 1341.24,
+  "ubicación_bodega": "Baleares",
+  "sku": "SKU-29909",
+  "proveedor": "Ribera-Cordero",
+  "peso_kg": 18.6
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66402"
+  },
+  "id_producto": 127,
+  "nombre_producto": "Samsung Eveniet 901",
+  "marca": "Samsung",
+  "categoría": "Cocina",
+  "descripción": "Ratione perferendis libero non officiis atque ipsa.",
+  "stock": 91,
+  "precio_usd": 747.35,
+  "descuento_porcentaje": 25,
+  "precio_final": 560.51,
+  "ubicación_bodega": "León",
+  "sku": "SKU-07318",
+  "proveedor": "Garcés, Mariño and Salinas",
+  "peso_kg": 3.67
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66403"
+  },
+  "id_producto": 128,
+  "nombre_producto": "Nike Ipsum 354",
+  "marca": "Nike",
+  "categoría": "Hogar",
+  "descripción": "Optio vitae nobis nisi animi ipsam.",
+  "stock": 391,
+  "precio_usd": 163.43,
+  "descuento_porcentaje": 5,
+  "precio_final": 155.26,
+  "ubicación_bodega": "Málaga",
+  "sku": "SKU-75745",
+  "proveedor": "Moliner, Noguera and Arco",
+  "peso_kg": 8.2
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66404"
+  },
+  "id_producto": 129,
+  "nombre_producto": "Xiaomi Itaque 945",
+  "marca": "Xiaomi",
+  "categoría": "Audio",
+  "descripción": "At vel quo perferendis omnis eligendi voluptatum sint.",
+  "stock": 146,
+  "precio_usd": 363.29,
+  "descuento_porcentaje": 20,
+  "precio_final": 290.63,
+  "ubicación_bodega": "Soria",
+  "sku": "SKU-50667",
+  "proveedor": "Sosa, Salmerón and Puerta",
+  "peso_kg": 13.33
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66405"
+  },
+  "id_producto": 130,
+  "nombre_producto": "Xiaomi Possimus 428",
+  "marca": "Xiaomi",
+  "categoría": "Belleza",
+  "descripción": "Distinctio est necessitatibus odio.",
+  "stock": 368,
+  "precio_usd": 61.22,
+  "descuento_porcentaje": 5,
+  "precio_final": 58.16,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-40206",
+  "proveedor": "Moliner-Castillo",
+  "peso_kg": 24.5
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66406"
+  },
+  "id_producto": 131,
+  "nombre_producto": "Lenovo Similique 827",
+  "marca": "Lenovo",
+  "categoría": "Ropa",
+  "descripción": "Veniam sunt optio nobis pariatur dolore.",
+  "stock": 329,
+  "precio_usd": 506.53,
+  "descuento_porcentaje": 0,
+  "precio_final": 506.53,
+  "ubicación_bodega": "Zaragoza",
+  "sku": "SKU-22514",
+  "proveedor": "Reguera, Tomás and Bernad",
+  "peso_kg": 17.29
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66407"
+  },
+  "id_producto": 132,
+  "nombre_producto": "Sony Animi 518",
+  "marca": "Sony",
+  "categoría": "Deportes",
+  "descripción": "Accusamus soluta beatae inventore deleniti fugit.",
+  "stock": 372,
+  "precio_usd": 1749.49,
+  "descuento_porcentaje": 20,
+  "precio_final": 1399.59,
+  "ubicación_bodega": "Segovia",
+  "sku": "SKU-65705",
+  "proveedor": "Menéndez-Díez",
+  "peso_kg": 14.06
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66408"
+  },
+  "id_producto": 133,
+  "nombre_producto": "Nike Placeat 293",
+  "marca": "Nike",
+  "categoría": "Audio",
+  "descripción": "Fugit perspiciatis quasi quam quo libero laudantium nulla.",
+  "stock": 471,
+  "precio_usd": 1195.31,
+  "descuento_porcentaje": 25,
+  "precio_final": 896.48,
+  "ubicación_bodega": "Barcelona",
+  "sku": "SKU-30126",
+  "proveedor": "Castilla PLC",
+  "peso_kg": 5.97
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66409"
+  },
+  "id_producto": 134,
+  "nombre_producto": "HP Maiores 436",
+  "marca": "HP",
+  "categoría": "Ropa",
+  "descripción": "Voluptatibus delectus temporibus harum dolore.",
+  "stock": 80,
+  "precio_usd": 887.74,
+  "descuento_porcentaje": 15,
+  "precio_final": 754.58,
+  "ubicación_bodega": "Sevilla",
+  "sku": "SKU-05103",
+  "proveedor": "Palomares, Juárez and Lobato",
+  "peso_kg": 8.98
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6640a"
+  },
+  "id_producto": 135,
+  "nombre_producto": "Xiaomi Expedita 788",
+  "marca": "Xiaomi",
+  "categoría": "Audio",
+  "descripción": "Sit non dignissimos perferendis.",
+  "stock": 140,
+  "precio_usd": 230.46,
+  "descuento_porcentaje": 0,
+  "precio_final": 230.46,
+  "ubicación_bodega": "Almería",
+  "sku": "SKU-83882",
+  "proveedor": "Botella Group",
+  "peso_kg": 17.31
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6640b"
+  },
+  "id_producto": 136,
+  "nombre_producto": "Adidas Impedit 789",
+  "marca": "Adidas",
+  "categoría": "Cocina",
+  "descripción": "Sequi laborum eveniet ut.",
+  "stock": 302,
+  "precio_usd": 1516.59,
+  "descuento_porcentaje": 15,
+  "precio_final": 1289.1,
+  "ubicación_bodega": "Asturias",
+  "sku": "SKU-82761",
+  "proveedor": "Soriano, Manzano and Pons",
+  "peso_kg": 10.36
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6640c"
+  },
+  "id_producto": 137,
+  "nombre_producto": "Pioneer Consequuntur 653",
+  "marca": "Pioneer",
+  "categoría": "Cocina",
+  "descripción": "Voluptatum quisquam aliquam excepturi.",
+  "stock": 380,
+  "precio_usd": 1188.32,
+  "descuento_porcentaje": 10,
+  "precio_final": 1069.49,
+  "ubicación_bodega": "Asturias",
+  "sku": "SKU-36462",
+  "proveedor": "Rosell, Criado and Ballester",
+  "peso_kg": 12.57
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6640d"
+  },
+  "id_producto": 138,
+  "nombre_producto": "Adidas Veniam 780",
+  "marca": "Adidas",
+  "categoría": "Belleza",
+  "descripción": "Dicta delectus aliquam possimus molestias doloribus.",
+  "stock": 181,
+  "precio_usd": 1483.45,
+  "descuento_porcentaje": 25,
+  "precio_final": 1112.59,
+  "ubicación_bodega": "Burgos",
+  "sku": "SKU-66053",
+  "proveedor": "Peinado Group",
+  "peso_kg": 12.21
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6640e"
+  },
+  "id_producto": 139,
+  "nombre_producto": "Adidas Corrupti 529",
+  "marca": "Adidas",
+  "categoría": "Belleza",
+  "descripción": "Eveniet magni consectetur ipsam facere nostrum amet.",
+  "stock": 3,
+  "precio_usd": 1335.55,
+  "descuento_porcentaje": 25,
+  "precio_final": 1001.66,
+  "ubicación_bodega": "Sevilla",
+  "sku": "SKU-95086",
+  "proveedor": "Saura, Cuenca and Morera",
+  "peso_kg": 13.94
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6640f"
+  },
+  "id_producto": 140,
+  "nombre_producto": "Sony Ipsum 504",
+  "marca": "Sony",
+  "categoría": "Belleza",
+  "descripción": "Delectus odio maxime minima.",
+  "stock": 500,
+  "precio_usd": 1542.33,
+  "descuento_porcentaje": 10,
+  "precio_final": 1388.1,
+  "ubicación_bodega": "Granada",
+  "sku": "SKU-76211",
+  "proveedor": "Cárdenas-Sainz",
+  "peso_kg": 2.31
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66410"
+  },
+  "id_producto": 141,
+  "nombre_producto": "Xiaomi Minus 874",
+  "marca": "Xiaomi",
+  "categoría": "Audio",
+  "descripción": "Praesentium dignissimos odit aspernatur soluta.",
+  "stock": 114,
+  "precio_usd": 473.82,
+  "descuento_porcentaje": 0,
+  "precio_final": 473.82,
+  "ubicación_bodega": "La Coruña",
+  "sku": "SKU-30088",
+  "proveedor": "Cepeda Group",
+  "peso_kg": 16.2
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66411"
+  },
+  "id_producto": 142,
+  "nombre_producto": "Adidas Praesentium 396",
+  "marca": "Adidas",
+  "categoría": "Deportes",
+  "descripción": "Nemo ea sit pariatur similique ut soluta.",
+  "stock": 226,
+  "precio_usd": 1138.64,
+  "descuento_porcentaje": 10,
+  "precio_final": 1024.78,
+  "ubicación_bodega": "Almería",
+  "sku": "SKU-29584",
+  "proveedor": "Fiol, Vaquero and Albero",
+  "peso_kg": 8.59
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66412"
+  },
+  "id_producto": 143,
+  "nombre_producto": "HP Id 823",
+  "marca": "HP",
+  "categoría": "Gaming",
+  "descripción": "Maiores autem esse asperiores esse culpa iste.",
+  "stock": 160,
+  "precio_usd": 1114.06,
+  "descuento_porcentaje": 20,
+  "precio_final": 891.25,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-21080",
+  "proveedor": "Guijarro-Gomez",
+  "peso_kg": 2.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66413"
+  },
+  "id_producto": 144,
+  "nombre_producto": "LG Repellendus 263",
+  "marca": "LG",
+  "categoría": "Electrónica",
+  "descripción": "Eveniet mollitia harum praesentium nisi culpa.",
+  "stock": 61,
+  "precio_usd": 392.01,
+  "descuento_porcentaje": 0,
+  "precio_final": 392.01,
+  "ubicación_bodega": "Melilla",
+  "sku": "SKU-61502",
+  "proveedor": "Melero-Leiva",
+  "peso_kg": 9.82
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66414"
+  },
+  "id_producto": 145,
+  "nombre_producto": "Nike Quos 426",
+  "marca": "Nike",
+  "categoría": "Hogar",
+  "descripción": "Architecto expedita itaque a ipsam qui id.",
+  "stock": 276,
+  "precio_usd": 1827.61,
+  "descuento_porcentaje": 15,
+  "precio_final": 1553.47,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-22547",
+  "proveedor": "Marcos, Palmer and Marqués",
+  "peso_kg": 23.55
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66415"
+  },
+  "id_producto": 146,
+  "nombre_producto": "Pioneer Cupiditate 834",
+  "marca": "Pioneer",
+  "categoría": "Cocina",
+  "descripción": "Maxime alias vitae doloribus eum omnis.",
+  "stock": 418,
+  "precio_usd": 1391.85,
+  "descuento_porcentaje": 30,
+  "precio_final": 974.29,
+  "ubicación_bodega": "Zaragoza",
+  "sku": "SKU-14585",
+  "proveedor": "Cobo PLC",
+  "peso_kg": 13.41
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66416"
+  },
+  "id_producto": 147,
+  "nombre_producto": "LG Vero 537",
+  "marca": "LG",
+  "categoría": "Audio",
+  "descripción": "Amet dolorem vel.",
+  "stock": 435,
+  "precio_usd": 855.17,
+  "descuento_porcentaje": 10,
+  "precio_final": 769.65,
+  "ubicación_bodega": "Toledo",
+  "sku": "SKU-32101",
+  "proveedor": "Prada and Sons",
+  "peso_kg": 23.05
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66417"
+  },
+  "id_producto": 148,
+  "nombre_producto": "Asus Odio 997",
+  "marca": "Asus",
+  "categoría": "Gaming",
+  "descripción": "Nihil vitae id optio.",
+  "stock": 302,
+  "precio_usd": 1963.34,
+  "descuento_porcentaje": 0,
+  "precio_final": 1963.34,
+  "ubicación_bodega": "Murcia",
+  "sku": "SKU-89560",
+  "proveedor": "Calderon, Pomares and Viñas",
+  "peso_kg": 17.18
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66418"
+  },
+  "id_producto": 149,
+  "nombre_producto": "Apple Cupiditate 404",
+  "marca": "Apple",
+  "categoría": "Audio",
+  "descripción": "Eveniet aspernatur cum architecto.",
+  "stock": 395,
+  "precio_usd": 798.1,
+  "descuento_porcentaje": 30,
+  "precio_final": 558.67,
+  "ubicación_bodega": "Murcia",
+  "sku": "SKU-92649",
+  "proveedor": "Castelló and Sons",
+  "peso_kg": 2.08
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66419"
+  },
+  "id_producto": 150,
+  "nombre_producto": "Nike Occaecati 257",
+  "marca": "Nike",
+  "categoría": "Electrónica",
+  "descripción": "Placeat vel perferendis expedita vel debitis.",
+  "stock": 439,
+  "precio_usd": 397.6,
+  "descuento_porcentaje": 10,
+  "precio_final": 357.84,
+  "ubicación_bodega": "Lugo",
+  "sku": "SKU-91208",
+  "proveedor": "Alfonso-Carmona",
+  "peso_kg": 6.54
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6641a"
+  },
+  "id_producto": 151,
+  "nombre_producto": "Sony Minus 528",
+  "marca": "Sony",
+  "categoría": "Hogar",
+  "descripción": "Deserunt rem voluptatem inventore.",
+  "stock": 75,
+  "precio_usd": 1012.37,
+  "descuento_porcentaje": 15,
+  "precio_final": 860.51,
+  "ubicación_bodega": "Ávila",
+  "sku": "SKU-09675",
+  "proveedor": "Sainz, Feliu and Torrecilla",
+  "peso_kg": 1.68
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6641b"
+  },
+  "id_producto": 152,
+  "nombre_producto": "Nike Fugit 352",
+  "marca": "Nike",
+  "categoría": "Audio",
+  "descripción": "Voluptatem veniam distinctio architecto distinctio animi molestias aspernatur.",
+  "stock": 124,
+  "precio_usd": 1640.64,
+  "descuento_porcentaje": 5,
+  "precio_final": 1558.61,
+  "ubicación_bodega": "Santa Cruz de Tenerife",
+  "sku": "SKU-66243",
+  "proveedor": "Franco, Ordóñez and Palomo",
+  "peso_kg": 22.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6641c"
+  },
+  "id_producto": 153,
+  "nombre_producto": "Nike Excepturi 955",
+  "marca": "Nike",
+  "categoría": "Deportes",
+  "descripción": "Inventore maiores maxime voluptatem quaerat quaerat.",
+  "stock": 275,
+  "precio_usd": 1973.23,
+  "descuento_porcentaje": 15,
+  "precio_final": 1677.25,
+  "ubicación_bodega": "Palencia",
+  "sku": "SKU-71477",
+  "proveedor": "Asensio, Roig and Arroyo",
+  "peso_kg": 7.46
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6641d"
+  },
+  "id_producto": 154,
+  "nombre_producto": "Nike Dolorem 439",
+  "marca": "Nike",
+  "categoría": "Gaming",
+  "descripción": "Illum nam laboriosam sunt architecto ipsa eius nobis.",
+  "stock": 212,
+  "precio_usd": 1079.19,
+  "descuento_porcentaje": 25,
+  "precio_final": 809.39,
+  "ubicación_bodega": "Palencia",
+  "sku": "SKU-79025",
+  "proveedor": "Lumbreras-Carreño",
+  "peso_kg": 24.98
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6641e"
+  },
+  "id_producto": 155,
+  "nombre_producto": "Nike Dolor 852",
+  "marca": "Nike",
+  "categoría": "Computadores",
+  "descripción": "Tempora voluptatibus unde quisquam quaerat fugit.",
+  "stock": 139,
+  "precio_usd": 1258.77,
+  "descuento_porcentaje": 20,
+  "precio_final": 1007.02,
+  "ubicación_bodega": "Ciudad",
+  "sku": "SKU-61821",
+  "proveedor": "Ordóñez-Villegas",
+  "peso_kg": 4.23
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6641f"
+  },
+  "id_producto": 156,
+  "nombre_producto": "Lenovo Totam 325",
+  "marca": "Lenovo",
+  "categoría": "Cocina",
+  "descripción": "Est omnis voluptas.",
+  "stock": 391,
+  "precio_usd": 543.6,
+  "descuento_porcentaje": 10,
+  "precio_final": 489.24,
+  "ubicación_bodega": "Girona",
+  "sku": "SKU-98191",
+  "proveedor": "Quesada-Benavides",
+  "peso_kg": 15.35
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66420"
+  },
+  "id_producto": 157,
+  "nombre_producto": "Lenovo Expedita 922",
+  "marca": "Lenovo",
+  "categoría": "Audio",
+  "descripción": "Est impedit ullam nostrum.",
+  "stock": 193,
+  "precio_usd": 1517.1,
+  "descuento_porcentaje": 30,
+  "precio_final": 1061.97,
+  "ubicación_bodega": "Sevilla",
+  "sku": "SKU-02635",
+  "proveedor": "Andres-Miranda",
+  "peso_kg": 21.23
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66421"
+  },
+  "id_producto": 158,
+  "nombre_producto": "LG Officia 734",
+  "marca": "LG",
+  "categoría": "Cocina",
+  "descripción": "Magni itaque consectetur iure repellat reprehenderit.",
+  "stock": 112,
+  "precio_usd": 1095.21,
+  "descuento_porcentaje": 5,
+  "precio_final": 1040.45,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-13573",
+  "proveedor": "Talavera-Otero",
+  "peso_kg": 18.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66422"
+  },
+  "id_producto": 159,
+  "nombre_producto": "Apple Recusandae 150",
+  "marca": "Apple",
+  "categoría": "Computadores",
+  "descripción": "Laudantium provident eligendi ut libero nesciunt voluptatem fugit.",
+  "stock": 158,
+  "precio_usd": 1274.89,
+  "descuento_porcentaje": 10,
+  "precio_final": 1147.4,
+  "ubicación_bodega": "Guadalajara",
+  "sku": "SKU-23303",
+  "proveedor": "Nevado-Linares",
+  "peso_kg": 12.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66423"
+  },
+  "id_producto": 160,
+  "nombre_producto": "Adidas Sunt 135",
+  "marca": "Adidas",
+  "categoría": "Cocina",
+  "descripción": "Doloribus velit optio.",
+  "stock": 103,
+  "precio_usd": 705.05,
+  "descuento_porcentaje": 20,
+  "precio_final": 564.04,
+  "ubicación_bodega": "Baleares",
+  "sku": "SKU-52945",
+  "proveedor": "Ortuño-Ángel",
+  "peso_kg": 22.33
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66424"
+  },
+  "id_producto": 161,
+  "nombre_producto": "Sony Vel 750",
+  "marca": "Sony",
+  "categoría": "Gaming",
+  "descripción": "Aliquid quibusdam quis.",
+  "stock": 328,
+  "precio_usd": 590.72,
+  "descuento_porcentaje": 0,
+  "precio_final": 590.72,
+  "ubicación_bodega": "Lugo",
+  "sku": "SKU-76302",
+  "proveedor": "Guerrero Group",
+  "peso_kg": 15.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66425"
+  },
+  "id_producto": 162,
+  "nombre_producto": "LG Itaque 624",
+  "marca": "LG",
+  "categoría": "Audio",
+  "descripción": "Dolores quia molestiae nesciunt.",
+  "stock": 109,
+  "precio_usd": 537.24,
+  "descuento_porcentaje": 25,
+  "precio_final": 402.93,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-23607",
+  "proveedor": "Gallego and Sons",
+  "peso_kg": 14.15
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66426"
+  },
+  "id_producto": 163,
+  "nombre_producto": "Xiaomi Impedit 116",
+  "marca": "Xiaomi",
+  "categoría": "Cocina",
+  "descripción": "Labore quia officia ea impedit.",
+  "stock": 389,
+  "precio_usd": 1659.55,
+  "descuento_porcentaje": 15,
+  "precio_final": 1410.62,
+  "ubicación_bodega": "Sevilla",
+  "sku": "SKU-52483",
+  "proveedor": "Arias-Tamarit",
+  "peso_kg": 11.76
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66427"
+  },
+  "id_producto": 164,
+  "nombre_producto": "Adidas Earum 110",
+  "marca": "Adidas",
+  "categoría": "Ropa",
+  "descripción": "Exercitationem eaque sapiente non.",
+  "stock": 337,
+  "precio_usd": 317.1,
+  "descuento_porcentaje": 20,
+  "precio_final": 253.68,
+  "ubicación_bodega": "León",
+  "sku": "SKU-74976",
+  "proveedor": "Prats, Carreño and Viana",
+  "peso_kg": 13.69
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66428"
+  },
+  "id_producto": 165,
+  "nombre_producto": "Lenovo Ducimus 822",
+  "marca": "Lenovo",
+  "categoría": "Audio",
+  "descripción": "Harum perferendis aliquid quos.",
+  "stock": 411,
+  "precio_usd": 1798.23,
+  "descuento_porcentaje": 30,
+  "precio_final": 1258.76,
+  "ubicación_bodega": "Burgos",
+  "sku": "SKU-99212",
+  "proveedor": "Alberto-Arribas",
+  "peso_kg": 19.92
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66429"
+  },
+  "id_producto": 166,
+  "nombre_producto": "Sony Sequi 614",
+  "marca": "Sony",
+  "categoría": "Deportes",
+  "descripción": "Amet saepe nobis doloremque eius voluptatum corrupti.",
+  "stock": 187,
+  "precio_usd": 1367.89,
+  "descuento_porcentaje": 5,
+  "precio_final": 1299.5,
+  "ubicación_bodega": "Granada",
+  "sku": "SKU-98102",
+  "proveedor": "Ocaña-Fajardo",
+  "peso_kg": 5.69
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6642a"
+  },
+  "id_producto": 167,
+  "nombre_producto": "Asus Quia 170",
+  "marca": "Asus",
+  "categoría": "Belleza",
+  "descripción": "Illo porro ipsam accusamus aliquam a.",
+  "stock": 149,
+  "precio_usd": 1529.18,
+  "descuento_porcentaje": 15,
+  "precio_final": 1299.8,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-25338",
+  "proveedor": "Noriega LLC",
+  "peso_kg": 12.08
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6642b"
+  },
+  "id_producto": 168,
+  "nombre_producto": "Pioneer Sequi 665",
+  "marca": "Pioneer",
+  "categoría": "Hogar",
+  "descripción": "Quas soluta temporibus repellat ullam ipsa.",
+  "stock": 35,
+  "precio_usd": 1232.02,
+  "descuento_porcentaje": 15,
+  "precio_final": 1047.22,
+  "ubicación_bodega": "Girona",
+  "sku": "SKU-89298",
+  "proveedor": "Carrasco Group",
+  "peso_kg": 16.61
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6642c"
+  },
+  "id_producto": 169,
+  "nombre_producto": "Pioneer Eum 571",
+  "marca": "Pioneer",
+  "categoría": "Deportes",
+  "descripción": "Eum laborum laboriosam accusantium ea.",
+  "stock": 201,
+  "precio_usd": 575.68,
+  "descuento_porcentaje": 20,
+  "precio_final": 460.54,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-45727",
+  "proveedor": "Cervera LLC",
+  "peso_kg": 14.15
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6642d"
+  },
+  "id_producto": 170,
+  "nombre_producto": "Pioneer Assumenda 255",
+  "marca": "Pioneer",
+  "categoría": "Audio",
+  "descripción": "Magni et perspiciatis.",
+  "stock": 473,
+  "precio_usd": 1122.87,
+  "descuento_porcentaje": 0,
+  "precio_final": 1122.87,
+  "ubicación_bodega": "Palencia",
+  "sku": "SKU-70252",
+  "proveedor": "Alcántara-Izquierdo",
+  "peso_kg": 2.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6642e"
+  },
+  "id_producto": 171,
+  "nombre_producto": "Sony Cumque 960",
+  "marca": "Sony",
+  "categoría": "Gaming",
+  "descripción": "Quod eveniet repellat dolore ab cumque.",
+  "stock": 85,
+  "precio_usd": 396.4,
+  "descuento_porcentaje": 25,
+  "precio_final": 297.3,
+  "ubicación_bodega": "Murcia",
+  "sku": "SKU-85731",
+  "proveedor": "Larrea, Moraleda and Luís",
+  "peso_kg": 14.95
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6642f"
+  },
+  "id_producto": 172,
+  "nombre_producto": "Nike Repellendus 504",
+  "marca": "Nike",
+  "categoría": "Audio",
+  "descripción": "Modi nam cum officia aut repudiandae.",
+  "stock": 205,
+  "precio_usd": 1092.8,
+  "descuento_porcentaje": 5,
+  "precio_final": 1038.16,
+  "ubicación_bodega": "Málaga",
+  "sku": "SKU-77717",
+  "proveedor": "Pol Ltd",
+  "peso_kg": 6.58
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66430"
+  },
+  "id_producto": 173,
+  "nombre_producto": "Sony Odio 458",
+  "marca": "Sony",
+  "categoría": "Computadores",
+  "descripción": "Cupiditate consequatur dolorum ratione porro tenetur tempora ad.",
+  "stock": 486,
+  "precio_usd": 143.95,
+  "descuento_porcentaje": 15,
+  "precio_final": 122.36,
+  "ubicación_bodega": "Burgos",
+  "sku": "SKU-45081",
+  "proveedor": "Iborra Ltd",
+  "peso_kg": 3.05
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66431"
+  },
+  "id_producto": 174,
+  "nombre_producto": "HP Commodi 217",
+  "marca": "HP",
+  "categoría": "Audio",
+  "descripción": "Doloremque veritatis iste dolorum quae.",
+  "stock": 315,
+  "precio_usd": 744.8,
+  "descuento_porcentaje": 20,
+  "precio_final": 595.84,
+  "ubicación_bodega": "Ciudad",
+  "sku": "SKU-31321",
+  "proveedor": "Moraleda-Díez",
+  "peso_kg": 22.69
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66432"
+  },
+  "id_producto": 175,
+  "nombre_producto": "Xiaomi Neque 215",
+  "marca": "Xiaomi",
+  "categoría": "Cocina",
+  "descripción": "Atque quo doloremque minus repellat minus.",
+  "stock": 482,
+  "precio_usd": 1318.75,
+  "descuento_porcentaje": 0,
+  "precio_final": 1318.75,
+  "ubicación_bodega": "Huelva",
+  "sku": "SKU-16817",
+  "proveedor": "Gomila, Montaña and Miguel",
+  "peso_kg": 4.51
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66433"
+  },
+  "id_producto": 176,
+  "nombre_producto": "Pioneer Et 351",
+  "marca": "Pioneer",
+  "categoría": "Belleza",
+  "descripción": "Fuga quidem optio excepturi aspernatur quod.",
+  "stock": 161,
+  "precio_usd": 1824.27,
+  "descuento_porcentaje": 15,
+  "precio_final": 1550.63,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-29201",
+  "proveedor": "Cervantes, Figueras and Aranda",
+  "peso_kg": 9.61
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66434"
+  },
+  "id_producto": 177,
+  "nombre_producto": "HP Alias 249",
+  "marca": "HP",
+  "categoría": "Cocina",
+  "descripción": "Consequatur nisi eos minima illum.",
+  "stock": 241,
+  "precio_usd": 1892.6,
+  "descuento_porcentaje": 25,
+  "precio_final": 1419.45,
+  "ubicación_bodega": "Ávila",
+  "sku": "SKU-07785",
+  "proveedor": "Morillo, Franch and Mir",
+  "peso_kg": 14.15
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66435"
+  },
+  "id_producto": 178,
+  "nombre_producto": "Adidas Quas 546",
+  "marca": "Adidas",
+  "categoría": "Audio",
+  "descripción": "Ad magnam vero minus veniam labore fugit asperiores.",
+  "stock": 384,
+  "precio_usd": 354.87,
+  "descuento_porcentaje": 20,
+  "precio_final": 283.9,
+  "ubicación_bodega": "Cádiz",
+  "sku": "SKU-44845",
+  "proveedor": "Cantero, Manso and Sedano",
+  "peso_kg": 5.75
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66436"
+  },
+  "id_producto": 179,
+  "nombre_producto": "Nike Illo 591",
+  "marca": "Nike",
+  "categoría": "Gaming",
+  "descripción": "Nihil optio voluptatem.",
+  "stock": 472,
+  "precio_usd": 212.05,
+  "descuento_porcentaje": 10,
+  "precio_final": 190.85,
+  "ubicación_bodega": "Tarragona",
+  "sku": "SKU-55519",
+  "proveedor": "Patiño Inc",
+  "peso_kg": 20.91
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66437"
+  },
+  "id_producto": 180,
+  "nombre_producto": "Pioneer Inventore 695",
+  "marca": "Pioneer",
+  "categoría": "Computadores",
+  "descripción": "Beatae eveniet nesciunt facere.",
+  "stock": 471,
+  "precio_usd": 908.38,
+  "descuento_porcentaje": 10,
+  "precio_final": 817.54,
+  "ubicación_bodega": "Jaén",
+  "sku": "SKU-35118",
+  "proveedor": "Cózar-Valencia",
+  "peso_kg": 14.25
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66438"
+  },
+  "id_producto": 181,
+  "nombre_producto": "Pioneer Ea 834",
+  "marca": "Pioneer",
+  "categoría": "Computadores",
+  "descripción": "Expedita incidunt harum amet perferendis maiores.",
+  "stock": 380,
+  "precio_usd": 628.01,
+  "descuento_porcentaje": 20,
+  "precio_final": 502.41,
+  "ubicación_bodega": "Teruel",
+  "sku": "SKU-54713",
+  "proveedor": "Granados, Gonzalez and Coronado",
+  "peso_kg": 15.31
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66439"
+  },
+  "id_producto": 182,
+  "nombre_producto": "Apple Sunt 365",
+  "marca": "Apple",
+  "categoría": "Electrónica",
+  "descripción": "Maiores omnis aliquid suscipit fugit odio nisi sapiente.",
+  "stock": 461,
+  "precio_usd": 1813.51,
+  "descuento_porcentaje": 0,
+  "precio_final": 1813.51,
+  "ubicación_bodega": "Lugo",
+  "sku": "SKU-22121",
+  "proveedor": "Acero-Cobos",
+  "peso_kg": 7.05
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6643a"
+  },
+  "id_producto": 183,
+  "nombre_producto": "Xiaomi Quisquam 338",
+  "marca": "Xiaomi",
+  "categoría": "Computadores",
+  "descripción": "Eveniet dolores quasi perferendis facilis.",
+  "stock": 224,
+  "precio_usd": 1359.35,
+  "descuento_porcentaje": 0,
+  "precio_final": 1359.35,
+  "ubicación_bodega": "Lleida",
+  "sku": "SKU-81605",
+  "proveedor": "Beltran, Porcel and Mur",
+  "peso_kg": 24.19
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6643b"
+  },
+  "id_producto": 184,
+  "nombre_producto": "Xiaomi Enim 810",
+  "marca": "Xiaomi",
+  "categoría": "Computadores",
+  "descripción": "Voluptatum officiis quibusdam magnam amet asperiores.",
+  "stock": 373,
+  "precio_usd": 827.47,
+  "descuento_porcentaje": 0,
+  "precio_final": 827.47,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-47817",
+  "proveedor": "Balaguer, Iñiguez and Ayllón",
+  "peso_kg": 9.87
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6643c"
+  },
+  "id_producto": 185,
+  "nombre_producto": "Samsung Error 298",
+  "marca": "Samsung",
+  "categoría": "Deportes",
+  "descripción": "Placeat facere illo fuga qui quo.",
+  "stock": 370,
+  "precio_usd": 85.08,
+  "descuento_porcentaje": 20,
+  "precio_final": 68.06,
+  "ubicación_bodega": "Zamora",
+  "sku": "SKU-18389",
+  "proveedor": "Roman-Carnero",
+  "peso_kg": 2.64
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6643d"
+  },
+  "id_producto": 186,
+  "nombre_producto": "Pioneer Cupiditate 720",
+  "marca": "Pioneer",
+  "categoría": "Deportes",
+  "descripción": "Enim tempora incidunt nulla.",
+  "stock": 1,
+  "precio_usd": 919.19,
+  "descuento_porcentaje": 15,
+  "precio_final": 781.31,
+  "ubicación_bodega": "Castellón",
+  "sku": "SKU-24833",
+  "proveedor": "Pineda LLC",
+  "peso_kg": 3.97
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6643e"
+  },
+  "id_producto": 187,
+  "nombre_producto": "LG Ipsum 821",
+  "marca": "LG",
+  "categoría": "Deportes",
+  "descripción": "Soluta ullam saepe nemo nostrum placeat.",
+  "stock": 423,
+  "precio_usd": 366.85,
+  "descuento_porcentaje": 10,
+  "precio_final": 330.17,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-84679",
+  "proveedor": "Agustí, Crespi and Bolaños",
+  "peso_kg": 0.22
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6643f"
+  },
+  "id_producto": 188,
+  "nombre_producto": "Pioneer Repellat 128",
+  "marca": "Pioneer",
+  "categoría": "Cocina",
+  "descripción": "Necessitatibus quasi aliquid consequuntur.",
+  "stock": 142,
+  "precio_usd": 1361.91,
+  "descuento_porcentaje": 5,
+  "precio_final": 1293.81,
+  "ubicación_bodega": "Pontevedra",
+  "sku": "SKU-93657",
+  "proveedor": "Barberá, Pascual and Luís",
+  "peso_kg": 19.44
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66440"
+  },
+  "id_producto": 189,
+  "nombre_producto": "HP Ducimus 495",
+  "marca": "HP",
+  "categoría": "Deportes",
+  "descripción": "Corporis sapiente corrupti.",
+  "stock": 145,
+  "precio_usd": 150.13,
+  "descuento_porcentaje": 10,
+  "precio_final": 135.12,
+  "ubicación_bodega": "Ávila",
+  "sku": "SKU-47557",
+  "proveedor": "Montalbán Group",
+  "peso_kg": 3.16
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66441"
+  },
+  "id_producto": 190,
+  "nombre_producto": "Adidas Maiores 429",
+  "marca": "Adidas",
+  "categoría": "Hogar",
+  "descripción": "Magni culpa natus delectus.",
+  "stock": 119,
+  "precio_usd": 1640.61,
+  "descuento_porcentaje": 25,
+  "precio_final": 1230.46,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-91048",
+  "proveedor": "Acero, Villar and Borrego",
+  "peso_kg": 18.51
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66442"
+  },
+  "id_producto": 191,
+  "nombre_producto": "Adidas Dolores 123",
+  "marca": "Adidas",
+  "categoría": "Gaming",
+  "descripción": "Dolores perferendis quaerat odio magnam quas.",
+  "stock": 234,
+  "precio_usd": 1234.82,
+  "descuento_porcentaje": 5,
+  "precio_final": 1173.08,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-41857",
+  "proveedor": "Fonseca and Sons",
+  "peso_kg": 6.55
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66443"
+  },
+  "id_producto": 192,
+  "nombre_producto": "HP Aliquam 428",
+  "marca": "HP",
+  "categoría": "Belleza",
+  "descripción": "Quo voluptatem animi rem.",
+  "stock": 422,
+  "precio_usd": 87.92,
+  "descuento_porcentaje": 25,
+  "precio_final": 65.94,
+  "ubicación_bodega": "Teruel",
+  "sku": "SKU-75780",
+  "proveedor": "Amaya, Gallart and Campillo",
+  "peso_kg": 15.61
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66444"
+  },
+  "id_producto": 193,
+  "nombre_producto": "Adidas Adipisci 920",
+  "marca": "Adidas",
+  "categoría": "Electrónica",
+  "descripción": "Ullam eaque omnis ut.",
+  "stock": 53,
+  "precio_usd": 87.84,
+  "descuento_porcentaje": 10,
+  "precio_final": 79.06,
+  "ubicación_bodega": "Burgos",
+  "sku": "SKU-92272",
+  "proveedor": "Lara LLC",
+  "peso_kg": 19.35
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66445"
+  },
+  "id_producto": 194,
+  "nombre_producto": "LG Occaecati 807",
+  "marca": "LG",
+  "categoría": "Ropa",
+  "descripción": "Necessitatibus perspiciatis fugiat consequatur dicta laboriosam.",
+  "stock": 471,
+  "precio_usd": 1299.74,
+  "descuento_porcentaje": 10,
+  "precio_final": 1169.77,
+  "ubicación_bodega": "Navarra",
+  "sku": "SKU-22960",
+  "proveedor": "Alfonso, Murillo and Borrás",
+  "peso_kg": 8.57
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66446"
+  },
+  "id_producto": 195,
+  "nombre_producto": "Nike Dolores 398",
+  "marca": "Nike",
+  "categoría": "Cocina",
+  "descripción": "Esse numquam fugit consectetur nobis atque sint.",
+  "stock": 258,
+  "precio_usd": 824.71,
+  "descuento_porcentaje": 25,
+  "precio_final": 618.53,
+  "ubicación_bodega": "Sevilla",
+  "sku": "SKU-11377",
+  "proveedor": "Mata Group",
+  "peso_kg": 13.88
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66447"
+  },
+  "id_producto": 196,
+  "nombre_producto": "LG Nam 958",
+  "marca": "LG",
+  "categoría": "Deportes",
+  "descripción": "Quod provident aliquid repellat iure vero reiciendis dolorem.",
+  "stock": 397,
+  "precio_usd": 748.63,
+  "descuento_porcentaje": 25,
+  "precio_final": 561.47,
+  "ubicación_bodega": "Albacete",
+  "sku": "SKU-10484",
+  "proveedor": "Toro-Perera",
+  "peso_kg": 23.07
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66448"
+  },
+  "id_producto": 197,
+  "nombre_producto": "LG Accusantium 442",
+  "marca": "LG",
+  "categoría": "Electrónica",
+  "descripción": "Deserunt possimus voluptatibus enim velit pariatur.",
+  "stock": 53,
+  "precio_usd": 525.77,
+  "descuento_porcentaje": 5,
+  "precio_final": 499.48,
+  "ubicación_bodega": "Guadalajara",
+  "sku": "SKU-45736",
+  "proveedor": "Barco, Río and Ferrer",
+  "peso_kg": 21.72
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66449"
+  },
+  "id_producto": 198,
+  "nombre_producto": "HP Enim 912",
+  "marca": "HP",
+  "categoría": "Electrónica",
+  "descripción": "Soluta labore autem amet deserunt mollitia accusamus unde.",
+  "stock": 274,
+  "precio_usd": 1095.64,
+  "descuento_porcentaje": 10,
+  "precio_final": 986.08,
+  "ubicación_bodega": "Barcelona",
+  "sku": "SKU-24797",
+  "proveedor": "Español-Andres",
+  "peso_kg": 4.91
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6644a"
+  },
+  "id_producto": 199,
+  "nombre_producto": "Nike Consequatur 879",
+  "marca": "Nike",
+  "categoría": "Ropa",
+  "descripción": "Ullam asperiores quisquam totam similique.",
+  "stock": 12,
+  "precio_usd": 1449.87,
+  "descuento_porcentaje": 0,
+  "precio_final": 1449.87,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-13731",
+  "proveedor": "Francisco-Tena",
+  "peso_kg": 13.49
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6644b"
+  },
+  "id_producto": 200,
+  "nombre_producto": "Sony Ad 994",
+  "marca": "Sony",
+  "categoría": "Gaming",
+  "descripción": "Minima officiis aspernatur fugit ab.",
+  "stock": 344,
+  "precio_usd": 1561.84,
+  "descuento_porcentaje": 10,
+  "precio_final": 1405.66,
+  "ubicación_bodega": "Toledo",
+  "sku": "SKU-11312",
+  "proveedor": "Larrañaga-Pujol",
+  "peso_kg": 24.89
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6644c"
+  },
+  "id_producto": 201,
+  "nombre_producto": "Nike Voluptates 884",
+  "marca": "Nike",
+  "categoría": "Deportes",
+  "descripción": "Velit atque sint.",
+  "stock": 380,
+  "precio_usd": 134.69,
+  "descuento_porcentaje": 5,
+  "precio_final": 127.96,
+  "ubicación_bodega": "Pontevedra",
+  "sku": "SKU-10644",
+  "proveedor": "Ángel-Hervás",
+  "peso_kg": 0.93
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6644d"
+  },
+  "id_producto": 202,
+  "nombre_producto": "Pioneer Aut 608",
+  "marca": "Pioneer",
+  "categoría": "Electrónica",
+  "descripción": "Odit aut nihil.",
+  "stock": 260,
+  "precio_usd": 640.63,
+  "descuento_porcentaje": 20,
+  "precio_final": 512.5,
+  "ubicación_bodega": "Guadalajara",
+  "sku": "SKU-02008",
+  "proveedor": "Sans LLC",
+  "peso_kg": 24.92
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6644e"
+  },
+  "id_producto": 203,
+  "nombre_producto": "Sony Dicta 278",
+  "marca": "Sony",
+  "categoría": "Hogar",
+  "descripción": "Porro esse quisquam.",
+  "stock": 4,
+  "precio_usd": 999.16,
+  "descuento_porcentaje": 10,
+  "precio_final": 899.24,
+  "ubicación_bodega": "Ávila",
+  "sku": "SKU-75520",
+  "proveedor": "Meléndez, Soler and Noguera",
+  "peso_kg": 13.11
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6644f"
+  },
+  "id_producto": 204,
+  "nombre_producto": "Xiaomi Dignissimos 218",
+  "marca": "Xiaomi",
+  "categoría": "Ropa",
+  "descripción": "Ipsa quibusdam ullam fuga iure dignissimos cumque est.",
+  "stock": 413,
+  "precio_usd": 432.16,
+  "descuento_porcentaje": 20,
+  "precio_final": 345.73,
+  "ubicación_bodega": "Navarra",
+  "sku": "SKU-83130",
+  "proveedor": "Castelló, Molins and Cadenas",
+  "peso_kg": 18.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66450"
+  },
+  "id_producto": 205,
+  "nombre_producto": "Asus Maxime 330",
+  "marca": "Asus",
+  "categoría": "Electrónica",
+  "descripción": "Ipsa nam harum quasi id.",
+  "stock": 366,
+  "precio_usd": 1140.74,
+  "descuento_porcentaje": 20,
+  "precio_final": 912.59,
+  "ubicación_bodega": "Alicante",
+  "sku": "SKU-59500",
+  "proveedor": "Bilbao, Lucena and Cortina",
+  "peso_kg": 0.36
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66451"
+  },
+  "id_producto": 206,
+  "nombre_producto": "Adidas Hic 390",
+  "marca": "Adidas",
+  "categoría": "Deportes",
+  "descripción": "Ipsa nostrum perspiciatis architecto facere.",
+  "stock": 165,
+  "precio_usd": 1022.69,
+  "descuento_porcentaje": 0,
+  "precio_final": 1022.69,
+  "ubicación_bodega": "Segovia",
+  "sku": "SKU-61593",
+  "proveedor": "Guardiola-Mendizábal",
+  "peso_kg": 19.75
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66452"
+  },
+  "id_producto": 207,
+  "nombre_producto": "Samsung Sequi 476",
+  "marca": "Samsung",
+  "categoría": "Gaming",
+  "descripción": "Eos quasi illo eaque.",
+  "stock": 171,
+  "precio_usd": 222.89,
+  "descuento_porcentaje": 15,
+  "precio_final": 189.46,
+  "ubicación_bodega": "Cádiz",
+  "sku": "SKU-09673",
+  "proveedor": "Álamo LLC",
+  "peso_kg": 15.46
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66453"
+  },
+  "id_producto": 208,
+  "nombre_producto": "Samsung Quia 303",
+  "marca": "Samsung",
+  "categoría": "Deportes",
+  "descripción": "Saepe excepturi ipsum.",
+  "stock": 4,
+  "precio_usd": 1690.76,
+  "descuento_porcentaje": 25,
+  "precio_final": 1268.07,
+  "ubicación_bodega": "Pontevedra",
+  "sku": "SKU-57765",
+  "proveedor": "Barbero-Villalonga",
+  "peso_kg": 15.5
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66454"
+  },
+  "id_producto": 209,
+  "nombre_producto": "Sony Dolore 647",
+  "marca": "Sony",
+  "categoría": "Belleza",
+  "descripción": "Quo natus error illum occaecati dolorem.",
+  "stock": 111,
+  "precio_usd": 1208.14,
+  "descuento_porcentaje": 15,
+  "precio_final": 1026.92,
+  "ubicación_bodega": "Huesca",
+  "sku": "SKU-89968",
+  "proveedor": "Arteaga, Bauzà and Jara",
+  "peso_kg": 7.27
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66455"
+  },
+  "id_producto": 210,
+  "nombre_producto": "Acer Ipsa 185",
+  "marca": "Acer",
+  "categoría": "Belleza",
+  "descripción": "Aspernatur fugiat ipsam deserunt vitae.",
+  "stock": 416,
+  "precio_usd": 914.18,
+  "descuento_porcentaje": 25,
+  "precio_final": 685.63,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-62095",
+  "proveedor": "Piña-Sacristán",
+  "peso_kg": 7.31
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66456"
+  },
+  "id_producto": 211,
+  "nombre_producto": "Pioneer Sit 441",
+  "marca": "Pioneer",
+  "categoría": "Belleza",
+  "descripción": "Quo optio fuga.",
+  "stock": 268,
+  "precio_usd": 55.65,
+  "descuento_porcentaje": 15,
+  "precio_final": 47.3,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-90442",
+  "proveedor": "Soler-Barrios",
+  "peso_kg": 12.39
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66457"
+  },
+  "id_producto": 212,
+  "nombre_producto": "Nike Accusamus 154",
+  "marca": "Nike",
+  "categoría": "Audio",
+  "descripción": "Ad enim quae aperiam molestias.",
+  "stock": 78,
+  "precio_usd": 265.02,
+  "descuento_porcentaje": 20,
+  "precio_final": 212.02,
+  "ubicación_bodega": "Segovia",
+  "sku": "SKU-11658",
+  "proveedor": "Malo-Vergara",
+  "peso_kg": 10.23
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66458"
+  },
+  "id_producto": 213,
+  "nombre_producto": "Pioneer Iste 285",
+  "marca": "Pioneer",
+  "categoría": "Computadores",
+  "descripción": "Sit quia ex sed quidem in officia.",
+  "stock": 472,
+  "precio_usd": 1879.75,
+  "descuento_porcentaje": 30,
+  "precio_final": 1315.82,
+  "ubicación_bodega": "La Coruña",
+  "sku": "SKU-65679",
+  "proveedor": "Peiró and Sons",
+  "peso_kg": 4.54
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66459"
+  },
+  "id_producto": 214,
+  "nombre_producto": "Adidas Corrupti 727",
+  "marca": "Adidas",
+  "categoría": "Hogar",
+  "descripción": "Quod numquam ipsa quidem laudantium quia.",
+  "stock": 220,
+  "precio_usd": 1800.81,
+  "descuento_porcentaje": 25,
+  "precio_final": 1350.61,
+  "ubicación_bodega": "Huesca",
+  "sku": "SKU-90314",
+  "proveedor": "Comas PLC",
+  "peso_kg": 2.02
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6645a"
+  },
+  "id_producto": 215,
+  "nombre_producto": "Asus Sint 300",
+  "marca": "Asus",
+  "categoría": "Belleza",
+  "descripción": "Architecto dolorum est cupiditate architecto.",
+  "stock": 470,
+  "precio_usd": 1425.69,
+  "descuento_porcentaje": 5,
+  "precio_final": 1354.41,
+  "ubicación_bodega": "Cantabria",
+  "sku": "SKU-94443",
+  "proveedor": "Salom, Agustí and Mariscal",
+  "peso_kg": 5.52
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6645b"
+  },
+  "id_producto": 216,
+  "nombre_producto": "Xiaomi Harum 371",
+  "marca": "Xiaomi",
+  "categoría": "Computadores",
+  "descripción": "Quod ad nemo dolore asperiores.",
+  "stock": 308,
+  "precio_usd": 898.03,
+  "descuento_porcentaje": 30,
+  "precio_final": 628.62,
+  "ubicación_bodega": "Cáceres",
+  "sku": "SKU-92335",
+  "proveedor": "Ledesma-Corral",
+  "peso_kg": 17.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6645c"
+  },
+  "id_producto": 217,
+  "nombre_producto": "LG Ipsam 671",
+  "marca": "LG",
+  "categoría": "Electrónica",
+  "descripción": "Consequuntur autem fugiat odio laboriosam.",
+  "stock": 227,
+  "precio_usd": 1843.26,
+  "descuento_porcentaje": 5,
+  "precio_final": 1751.1,
+  "ubicación_bodega": "Ciudad",
+  "sku": "SKU-28377",
+  "proveedor": "Páez-Amores",
+  "peso_kg": 3.11
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6645d"
+  },
+  "id_producto": 218,
+  "nombre_producto": "Adidas Necessitatibus 947",
+  "marca": "Adidas",
+  "categoría": "Computadores",
+  "descripción": "Deleniti repellat assumenda ratione nihil.",
+  "stock": 484,
+  "precio_usd": 563.79,
+  "descuento_porcentaje": 15,
+  "precio_final": 479.22,
+  "ubicación_bodega": "Castellón",
+  "sku": "SKU-83446",
+  "proveedor": "Sanchez PLC",
+  "peso_kg": 7.03
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6645e"
+  },
+  "id_producto": 219,
+  "nombre_producto": "Pioneer Repellat 547",
+  "marca": "Pioneer",
+  "categoría": "Computadores",
+  "descripción": "Nisi occaecati ipsa facere quam.",
+  "stock": 196,
+  "precio_usd": 1696.25,
+  "descuento_porcentaje": 30,
+  "precio_final": 1187.38,
+  "ubicación_bodega": "Baleares",
+  "sku": "SKU-38528",
+  "proveedor": "Colom-Salvador",
+  "peso_kg": 16.22
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6645f"
+  },
+  "id_producto": 220,
+  "nombre_producto": "Adidas Consequuntur 360",
+  "marca": "Adidas",
+  "categoría": "Ropa",
+  "descripción": "Suscipit sed cumque.",
+  "stock": 434,
+  "precio_usd": 746.47,
+  "descuento_porcentaje": 20,
+  "precio_final": 597.18,
+  "ubicación_bodega": "Santa Cruz de Tenerife",
+  "sku": "SKU-63948",
+  "proveedor": "Donaire, Fonseca and Bartolomé",
+  "peso_kg": 20.46
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66460"
+  },
+  "id_producto": 221,
+  "nombre_producto": "Acer Facilis 572",
+  "marca": "Acer",
+  "categoría": "Audio",
+  "descripción": "Ipsa architecto corporis culpa nisi iste minima quam.",
+  "stock": 134,
+  "precio_usd": 748.36,
+  "descuento_porcentaje": 10,
+  "precio_final": 673.52,
+  "ubicación_bodega": "Asturias",
+  "sku": "SKU-74048",
+  "proveedor": "Zabaleta Inc",
+  "peso_kg": 7.07
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66461"
+  },
+  "id_producto": 222,
+  "nombre_producto": "LG Dolorum 734",
+  "marca": "LG",
+  "categoría": "Deportes",
+  "descripción": "Accusamus provident nihil aliquam nostrum alias.",
+  "stock": 447,
+  "precio_usd": 461.99,
+  "descuento_porcentaje": 10,
+  "precio_final": 415.79,
+  "ubicación_bodega": "Girona",
+  "sku": "SKU-78740",
+  "proveedor": "Guillen, Colom and Cases",
+  "peso_kg": 9.74
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66462"
+  },
+  "id_producto": 223,
+  "nombre_producto": "LG Voluptates 159",
+  "marca": "LG",
+  "categoría": "Cocina",
+  "descripción": "Architecto optio hic et sed suscipit ab.",
+  "stock": 476,
+  "precio_usd": 1058.72,
+  "descuento_porcentaje": 20,
+  "precio_final": 846.98,
+  "ubicación_bodega": "Zamora",
+  "sku": "SKU-20293",
+  "proveedor": "Acosta, Llamas and Salgado",
+  "peso_kg": 14.03
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66463"
+  },
+  "id_producto": 224,
+  "nombre_producto": "Sony Velit 827",
+  "marca": "Sony",
+  "categoría": "Belleza",
+  "descripción": "Illum soluta repudiandae tenetur sunt voluptatibus ad.",
+  "stock": 383,
+  "precio_usd": 944.22,
+  "descuento_porcentaje": 0,
+  "precio_final": 944.22,
+  "ubicación_bodega": "Granada",
+  "sku": "SKU-84758",
+  "proveedor": "Benet, Gimeno and Hernández",
+  "peso_kg": 12.65
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66464"
+  },
+  "id_producto": 225,
+  "nombre_producto": "HP Recusandae 228",
+  "marca": "HP",
+  "categoría": "Hogar",
+  "descripción": "Quo laboriosam qui recusandae.",
+  "stock": 409,
+  "precio_usd": 110.71,
+  "descuento_porcentaje": 10,
+  "precio_final": 99.64,
+  "ubicación_bodega": "Valladolid",
+  "sku": "SKU-43063",
+  "proveedor": "Vall, Corral and Carmona",
+  "peso_kg": 6.93
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66465"
+  },
+  "id_producto": 226,
+  "nombre_producto": "Adidas Similique 853",
+  "marca": "Adidas",
+  "categoría": "Ropa",
+  "descripción": "Suscipit odit aperiam ad.",
+  "stock": 111,
+  "precio_usd": 1575.23,
+  "descuento_porcentaje": 20,
+  "precio_final": 1260.18,
+  "ubicación_bodega": "Baleares",
+  "sku": "SKU-38363",
+  "proveedor": "Cózar-Ayllón",
+  "peso_kg": 16.89
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66466"
+  },
+  "id_producto": 227,
+  "nombre_producto": "Lenovo Voluptatum 115",
+  "marca": "Lenovo",
+  "categoría": "Belleza",
+  "descripción": "Animi porro illo soluta distinctio corrupti minus ratione.",
+  "stock": 204,
+  "precio_usd": 1463.09,
+  "descuento_porcentaje": 15,
+  "precio_final": 1243.63,
+  "ubicación_bodega": "Barcelona",
+  "sku": "SKU-18597",
+  "proveedor": "Maestre Ltd",
+  "peso_kg": 23.61
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66467"
+  },
+  "id_producto": 228,
+  "nombre_producto": "Pioneer Quam 873",
+  "marca": "Pioneer",
+  "categoría": "Hogar",
+  "descripción": "Ratione ducimus laboriosam consequuntur deleniti.",
+  "stock": 26,
+  "precio_usd": 1076.61,
+  "descuento_porcentaje": 5,
+  "precio_final": 1022.78,
+  "ubicación_bodega": "León",
+  "sku": "SKU-81133",
+  "proveedor": "Sales, Alfaro and Robledo",
+  "peso_kg": 1.85
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66468"
+  },
+  "id_producto": 229,
+  "nombre_producto": "HP Labore 870",
+  "marca": "HP",
+  "categoría": "Electrónica",
+  "descripción": "Nostrum officia nobis maxime eveniet veritatis sapiente necessitatibus.",
+  "stock": 459,
+  "precio_usd": 1229.97,
+  "descuento_porcentaje": 10,
+  "precio_final": 1106.97,
+  "ubicación_bodega": "Jaén",
+  "sku": "SKU-13075",
+  "proveedor": "Vazquez, Rivera and Iglesias",
+  "peso_kg": 15.5
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66469"
+  },
+  "id_producto": 230,
+  "nombre_producto": "Lenovo Esse 990",
+  "marca": "Lenovo",
+  "categoría": "Gaming",
+  "descripción": "Sequi sequi laboriosam itaque.",
+  "stock": 114,
+  "precio_usd": 1158.35,
+  "descuento_porcentaje": 20,
+  "precio_final": 926.68,
+  "ubicación_bodega": "Sevilla",
+  "sku": "SKU-32059",
+  "proveedor": "Mendizábal and Sons",
+  "peso_kg": 8.89
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6646a"
+  },
+  "id_producto": 231,
+  "nombre_producto": "LG Et 144",
+  "marca": "LG",
+  "categoría": "Cocina",
+  "descripción": "At sed voluptatum architecto aliquid debitis.",
+  "stock": 500,
+  "precio_usd": 1005.21,
+  "descuento_porcentaje": 20,
+  "precio_final": 804.17,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-53901",
+  "proveedor": "Marqués PLC",
+  "peso_kg": 7.58
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6646b"
+  },
+  "id_producto": 232,
+  "nombre_producto": "Samsung Ipsa 855",
+  "marca": "Samsung",
+  "categoría": "Hogar",
+  "descripción": "Nihil impedit hic alias quia iste.",
+  "stock": 380,
+  "precio_usd": 1868.49,
+  "descuento_porcentaje": 5,
+  "precio_final": 1775.07,
+  "ubicación_bodega": "Huelva",
+  "sku": "SKU-47717",
+  "proveedor": "Villaverde-Farré",
+  "peso_kg": 9.16
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6646c"
+  },
+  "id_producto": 233,
+  "nombre_producto": "Apple Hic 606",
+  "marca": "Apple",
+  "categoría": "Belleza",
+  "descripción": "Fuga beatae nostrum nisi nemo debitis consequatur cumque.",
+  "stock": 401,
+  "precio_usd": 1403.29,
+  "descuento_porcentaje": 0,
+  "precio_final": 1403.29,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-07283",
+  "proveedor": "Noguera Group",
+  "peso_kg": 20.1
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6646d"
+  },
+  "id_producto": 234,
+  "nombre_producto": "Sony Excepturi 731",
+  "marca": "Sony",
+  "categoría": "Belleza",
+  "descripción": "Totam ipsa delectus facilis ipsam sint ratione.",
+  "stock": 185,
+  "precio_usd": 1451.04,
+  "descuento_porcentaje": 20,
+  "precio_final": 1160.83,
+  "ubicación_bodega": "Badajoz",
+  "sku": "SKU-55484",
+  "proveedor": "Tamayo-Cárdenas",
+  "peso_kg": 5.23
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6646e"
+  },
+  "id_producto": 235,
+  "nombre_producto": "Lenovo Consequuntur 810",
+  "marca": "Lenovo",
+  "categoría": "Gaming",
+  "descripción": "Rerum ipsam similique accusantium quidem minus quia consectetur.",
+  "stock": 396,
+  "precio_usd": 790.33,
+  "descuento_porcentaje": 25,
+  "precio_final": 592.75,
+  "ubicación_bodega": "Alicante",
+  "sku": "SKU-63707",
+  "proveedor": "Lobato-Neira",
+  "peso_kg": 6.58
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6646f"
+  },
+  "id_producto": 236,
+  "nombre_producto": "Samsung Voluptates 554",
+  "marca": "Samsung",
+  "categoría": "Computadores",
+  "descripción": "Eius commodi consequuntur numquam assumenda eos.",
+  "stock": 177,
+  "precio_usd": 1450.24,
+  "descuento_porcentaje": 20,
+  "precio_final": 1160.19,
+  "ubicación_bodega": "Badajoz",
+  "sku": "SKU-81967",
+  "proveedor": "Aguado Ltd",
+  "peso_kg": 21.44
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66470"
+  },
+  "id_producto": 237,
+  "nombre_producto": "Sony Totam 281",
+  "marca": "Sony",
+  "categoría": "Belleza",
+  "descripción": "Nesciunt error adipisci fugit quis accusantium.",
+  "stock": 98,
+  "precio_usd": 1819.94,
+  "descuento_porcentaje": 20,
+  "precio_final": 1455.95,
+  "ubicación_bodega": "Málaga",
+  "sku": "SKU-88550",
+  "proveedor": "Cornejo, Hidalgo and Collado",
+  "peso_kg": 2.55
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66471"
+  },
+  "id_producto": 238,
+  "nombre_producto": "Apple Dolorum 202",
+  "marca": "Apple",
+  "categoría": "Gaming",
+  "descripción": "Accusamus eaque vitae distinctio.",
+  "stock": 384,
+  "precio_usd": 1848.74,
+  "descuento_porcentaje": 5,
+  "precio_final": 1756.3,
+  "ubicación_bodega": "Asturias",
+  "sku": "SKU-48504",
+  "proveedor": "Feijoo Ltd",
+  "peso_kg": 7.34
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66472"
+  },
+  "id_producto": 239,
+  "nombre_producto": "HP Quos 501",
+  "marca": "HP",
+  "categoría": "Ropa",
+  "descripción": "Odio perferendis occaecati eum.",
+  "stock": 273,
+  "precio_usd": 1813.54,
+  "descuento_porcentaje": 10,
+  "precio_final": 1632.19,
+  "ubicación_bodega": "Cáceres",
+  "sku": "SKU-21570",
+  "proveedor": "Lozano, León and Arnau",
+  "peso_kg": 17.25
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66473"
+  },
+  "id_producto": 240,
+  "nombre_producto": "Nike Itaque 305",
+  "marca": "Nike",
+  "categoría": "Ropa",
+  "descripción": "Doloribus deleniti rem ducimus quam non.",
+  "stock": 161,
+  "precio_usd": 1062.68,
+  "descuento_porcentaje": 10,
+  "precio_final": 956.41,
+  "ubicación_bodega": "Ourense",
+  "sku": "SKU-39521",
+  "proveedor": "Ferreras, Ariza and Capdevila",
+  "peso_kg": 9.92
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66474"
+  },
+  "id_producto": 241,
+  "nombre_producto": "Lenovo Quas 480",
+  "marca": "Lenovo",
+  "categoría": "Cocina",
+  "descripción": "Possimus dicta omnis occaecati distinctio eaque iusto a.",
+  "stock": 27,
+  "precio_usd": 1755.52,
+  "descuento_porcentaje": 10,
+  "precio_final": 1579.97,
+  "ubicación_bodega": "La Coruña",
+  "sku": "SKU-84011",
+  "proveedor": "Pintor, Reyes and Lorenzo",
+  "peso_kg": 13.65
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66475"
+  },
+  "id_producto": 242,
+  "nombre_producto": "Adidas Porro 357",
+  "marca": "Adidas",
+  "categoría": "Cocina",
+  "descripción": "Cumque necessitatibus architecto cumque magnam mollitia amet.",
+  "stock": 347,
+  "precio_usd": 169.41,
+  "descuento_porcentaje": 25,
+  "precio_final": 127.06,
+  "ubicación_bodega": "Almería",
+  "sku": "SKU-21922",
+  "proveedor": "Espada, Zapata and Tovar",
+  "peso_kg": 10.57
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66476"
+  },
+  "id_producto": 243,
+  "nombre_producto": "HP Voluptatum 444",
+  "marca": "HP",
+  "categoría": "Computadores",
+  "descripción": "Magni dicta nam sapiente repellat corporis.",
+  "stock": 28,
+  "precio_usd": 1050.99,
+  "descuento_porcentaje": 20,
+  "precio_final": 840.79,
+  "ubicación_bodega": "Tarragona",
+  "sku": "SKU-38588",
+  "proveedor": "Garmendia, Zamorano and Villaverde",
+  "peso_kg": 7.97
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66477"
+  },
+  "id_producto": 244,
+  "nombre_producto": "Samsung Consectetur 725",
+  "marca": "Samsung",
+  "categoría": "Deportes",
+  "descripción": "Quidem culpa qui saepe.",
+  "stock": 242,
+  "precio_usd": 1155,
+  "descuento_porcentaje": 5,
+  "precio_final": 1097.25,
+  "ubicación_bodega": "Zamora",
+  "sku": "SKU-34347",
+  "proveedor": "Rovira-Guillen",
+  "peso_kg": 7.48
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66478"
+  },
+  "id_producto": 245,
+  "nombre_producto": "LG Sapiente 345",
+  "marca": "LG",
+  "categoría": "Belleza",
+  "descripción": "Enim dicta illo aspernatur omnis eum.",
+  "stock": 217,
+  "precio_usd": 1800.06,
+  "descuento_porcentaje": 5,
+  "precio_final": 1710.06,
+  "ubicación_bodega": "Zamora",
+  "sku": "SKU-00936",
+  "proveedor": "Dominguez-Vargas",
+  "peso_kg": 17.52
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66479"
+  },
+  "id_producto": 246,
+  "nombre_producto": "Xiaomi Dolores 453",
+  "marca": "Xiaomi",
+  "categoría": "Cocina",
+  "descripción": "Est incidunt occaecati.",
+  "stock": 102,
+  "precio_usd": 1442.06,
+  "descuento_porcentaje": 25,
+  "precio_final": 1081.55,
+  "ubicación_bodega": "Valencia",
+  "sku": "SKU-22879",
+  "proveedor": "Gonzalo, Rey and Martinez",
+  "peso_kg": 9.94
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6647a"
+  },
+  "id_producto": 247,
+  "nombre_producto": "Apple Rerum 397",
+  "marca": "Apple",
+  "categoría": "Hogar",
+  "descripción": "Soluta consectetur consequatur provident magni.",
+  "stock": 6,
+  "precio_usd": 936.61,
+  "descuento_porcentaje": 30,
+  "precio_final": 655.63,
+  "ubicación_bodega": "Asturias",
+  "sku": "SKU-16830",
+  "proveedor": "Larrañaga, Larrañaga and Ramis",
+  "peso_kg": 22.52
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6647b"
+  },
+  "id_producto": 248,
+  "nombre_producto": "Pioneer Saepe 107",
+  "marca": "Pioneer",
+  "categoría": "Hogar",
+  "descripción": "Ducimus quam delectus.",
+  "stock": 213,
+  "precio_usd": 1268,
+  "descuento_porcentaje": 20,
+  "precio_final": 1014.4,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-95706",
+  "proveedor": "Blasco, Corral and Abellán",
+  "peso_kg": 5.78
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6647c"
+  },
+  "id_producto": 249,
+  "nombre_producto": "LG Enim 779",
+  "marca": "LG",
+  "categoría": "Electrónica",
+  "descripción": "In aliquid ipsum odio iste quisquam.",
+  "stock": 15,
+  "precio_usd": 553.87,
+  "descuento_porcentaje": 0,
+  "precio_final": 553.87,
+  "ubicación_bodega": "Álava",
+  "sku": "SKU-98756",
+  "proveedor": "Carrillo-Pons",
+  "peso_kg": 22.55
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6647d"
+  },
+  "id_producto": 250,
+  "nombre_producto": "Asus Minus 170",
+  "marca": "Asus",
+  "categoría": "Hogar",
+  "descripción": "Molestias molestias suscipit occaecati consequatur neque.",
+  "stock": 116,
+  "precio_usd": 1230.16,
+  "descuento_porcentaje": 30,
+  "precio_final": 861.11,
+  "ubicación_bodega": "Huesca",
+  "sku": "SKU-86434",
+  "proveedor": "Rios, Gonzalo and Almazán",
+  "peso_kg": 6.85
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6647e"
+  },
+  "id_producto": 251,
+  "nombre_producto": "Xiaomi Dolorem 873",
+  "marca": "Xiaomi",
+  "categoría": "Hogar",
+  "descripción": "Temporibus iure perspiciatis doloribus nihil odio.",
+  "stock": 103,
+  "precio_usd": 101.35,
+  "descuento_porcentaje": 10,
+  "precio_final": 91.22,
+  "ubicación_bodega": "Cantabria",
+  "sku": "SKU-73569",
+  "proveedor": "Quirós, Piquer and Alfonso",
+  "peso_kg": 0.41
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6647f"
+  },
+  "id_producto": 252,
+  "nombre_producto": "Sony Facere 417",
+  "marca": "Sony",
+  "categoría": "Hogar",
+  "descripción": "Qui deleniti delectus optio.",
+  "stock": 190,
+  "precio_usd": 931.82,
+  "descuento_porcentaje": 25,
+  "precio_final": 698.87,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-98342",
+  "proveedor": "Coronado and Sons",
+  "peso_kg": 8.13
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66480"
+  },
+  "id_producto": 253,
+  "nombre_producto": "Nike Consequatur 906",
+  "marca": "Nike",
+  "categoría": "Computadores",
+  "descripción": "Vero recusandae non.",
+  "stock": 373,
+  "precio_usd": 170.79,
+  "descuento_porcentaje": 10,
+  "precio_final": 153.71,
+  "ubicación_bodega": "Barcelona",
+  "sku": "SKU-81259",
+  "proveedor": "Trujillo-Cabanillas",
+  "peso_kg": 5.49
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66481"
+  },
+  "id_producto": 254,
+  "nombre_producto": "Acer Temporibus 258",
+  "marca": "Acer",
+  "categoría": "Ropa",
+  "descripción": "Eius ad aliquid omnis dolor.",
+  "stock": 212,
+  "precio_usd": 1062.45,
+  "descuento_porcentaje": 30,
+  "precio_final": 743.72,
+  "ubicación_bodega": "Baleares",
+  "sku": "SKU-01374",
+  "proveedor": "Español-Guerra",
+  "peso_kg": 24.69
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66482"
+  },
+  "id_producto": 255,
+  "nombre_producto": "Samsung Blanditiis 438",
+  "marca": "Samsung",
+  "categoría": "Computadores",
+  "descripción": "Nemo quidem fugiat ad repellat rem maxime.",
+  "stock": 106,
+  "precio_usd": 893.01,
+  "descuento_porcentaje": 20,
+  "precio_final": 714.41,
+  "ubicación_bodega": "Soria",
+  "sku": "SKU-11543",
+  "proveedor": "Montalbán, Ortega and Gómez",
+  "peso_kg": 17.27
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66483"
+  },
+  "id_producto": 256,
+  "nombre_producto": "HP Id 607",
+  "marca": "HP",
+  "categoría": "Gaming",
+  "descripción": "A dicta cumque.",
+  "stock": 243,
+  "precio_usd": 1608.06,
+  "descuento_porcentaje": 25,
+  "precio_final": 1206.05,
+  "ubicación_bodega": "Cáceres",
+  "sku": "SKU-56271",
+  "proveedor": "Tejero, Recio and Romeu",
+  "peso_kg": 11.84
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66484"
+  },
+  "id_producto": 257,
+  "nombre_producto": "Apple Accusamus 622",
+  "marca": "Apple",
+  "categoría": "Gaming",
+  "descripción": "Libero nihil veritatis numquam quisquam eveniet.",
+  "stock": 56,
+  "precio_usd": 709.04,
+  "descuento_porcentaje": 0,
+  "precio_final": 709.04,
+  "ubicación_bodega": "Ceuta",
+  "sku": "SKU-95806",
+  "proveedor": "Beltran PLC",
+  "peso_kg": 7.26
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66485"
+  },
+  "id_producto": 258,
+  "nombre_producto": "Xiaomi Dolore 636",
+  "marca": "Xiaomi",
+  "categoría": "Ropa",
+  "descripción": "Dolorem provident sit quam a.",
+  "stock": 479,
+  "precio_usd": 705.3,
+  "descuento_porcentaje": 5,
+  "precio_final": 670.03,
+  "ubicación_bodega": "Sevilla",
+  "sku": "SKU-10964",
+  "proveedor": "Fabregat-Núñez",
+  "peso_kg": 15.29
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66486"
+  },
+  "id_producto": 259,
+  "nombre_producto": "Samsung Esse 316",
+  "marca": "Samsung",
+  "categoría": "Hogar",
+  "descripción": "Cumque aliquam perferendis dolor magnam voluptatibus commodi.",
+  "stock": 259,
+  "precio_usd": 228.76,
+  "descuento_porcentaje": 0,
+  "precio_final": 228.76,
+  "ubicación_bodega": "Huesca",
+  "sku": "SKU-91835",
+  "proveedor": "Almazán-Cabezas",
+  "peso_kg": 17.01
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66487"
+  },
+  "id_producto": 260,
+  "nombre_producto": "LG Esse 136",
+  "marca": "LG",
+  "categoría": "Gaming",
+  "descripción": "Autem necessitatibus dicta placeat voluptatum eaque qui.",
+  "stock": 306,
+  "precio_usd": 1780.45,
+  "descuento_porcentaje": 30,
+  "precio_final": 1246.32,
+  "ubicación_bodega": "Barcelona",
+  "sku": "SKU-86507",
+  "proveedor": "Ruano Inc",
+  "peso_kg": 10.82
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66488"
+  },
+  "id_producto": 261,
+  "nombre_producto": "Xiaomi At 755",
+  "marca": "Xiaomi",
+  "categoría": "Computadores",
+  "descripción": "Et magni repellendus rem ea tempore animi.",
+  "stock": 242,
+  "precio_usd": 136.25,
+  "descuento_porcentaje": 30,
+  "precio_final": 95.38,
+  "ubicación_bodega": "Zaragoza",
+  "sku": "SKU-65816",
+  "proveedor": "Roig-Bonilla",
+  "peso_kg": 8.45
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66489"
+  },
+  "id_producto": 262,
+  "nombre_producto": "Apple Aliquam 535",
+  "marca": "Apple",
+  "categoría": "Belleza",
+  "descripción": "Odio a blanditiis voluptatibus repudiandae quia.",
+  "stock": 218,
+  "precio_usd": 1806.17,
+  "descuento_porcentaje": 15,
+  "precio_final": 1535.24,
+  "ubicación_bodega": "Cantabria",
+  "sku": "SKU-72265",
+  "proveedor": "Ibañez Ltd",
+  "peso_kg": 4.08
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6648a"
+  },
+  "id_producto": 263,
+  "nombre_producto": "Samsung Quibusdam 119",
+  "marca": "Samsung",
+  "categoría": "Hogar",
+  "descripción": "Porro sint beatae commodi.",
+  "stock": 142,
+  "precio_usd": 588.55,
+  "descuento_porcentaje": 30,
+  "precio_final": 411.98,
+  "ubicación_bodega": "Castellón",
+  "sku": "SKU-60963",
+  "proveedor": "Comas LLC",
+  "peso_kg": 12.24
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6648b"
+  },
+  "id_producto": 264,
+  "nombre_producto": "Acer Quaerat 850",
+  "marca": "Acer",
+  "categoría": "Electrónica",
+  "descripción": "Sit dolor mollitia.",
+  "stock": 377,
+  "precio_usd": 1952.88,
+  "descuento_porcentaje": 25,
+  "precio_final": 1464.66,
+  "ubicación_bodega": "Cádiz",
+  "sku": "SKU-63612",
+  "proveedor": "Real, Mosquera and Medina",
+  "peso_kg": 2.8
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6648c"
+  },
+  "id_producto": 265,
+  "nombre_producto": "Nike Quidem 257",
+  "marca": "Nike",
+  "categoría": "Ropa",
+  "descripción": "Atque corporis unde repellendus mollitia.",
+  "stock": 464,
+  "precio_usd": 743.22,
+  "descuento_porcentaje": 25,
+  "precio_final": 557.41,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-94610",
+  "proveedor": "Palomo, Sotelo and Valbuena",
+  "peso_kg": 24.8
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6648d"
+  },
+  "id_producto": 266,
+  "nombre_producto": "Asus Quo 966",
+  "marca": "Asus",
+  "categoría": "Hogar",
+  "descripción": "Soluta beatae eius consequuntur architecto.",
+  "stock": 31,
+  "precio_usd": 773.15,
+  "descuento_porcentaje": 5,
+  "precio_final": 734.49,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-12098",
+  "proveedor": "Alonso, Carrión and Cardona",
+  "peso_kg": 4.75
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6648e"
+  },
+  "id_producto": 267,
+  "nombre_producto": "LG Dolorum 985",
+  "marca": "LG",
+  "categoría": "Belleza",
+  "descripción": "At possimus totam aut.",
+  "stock": 345,
+  "precio_usd": 1685.33,
+  "descuento_porcentaje": 10,
+  "precio_final": 1516.8,
+  "ubicación_bodega": "Lleida",
+  "sku": "SKU-57391",
+  "proveedor": "Rovira-Gallo",
+  "peso_kg": 11.81
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6648f"
+  },
+  "id_producto": 268,
+  "nombre_producto": "Adidas Architecto 280",
+  "marca": "Adidas",
+  "categoría": "Gaming",
+  "descripción": "Quibusdam in aliquam.",
+  "stock": 380,
+  "precio_usd": 305.75,
+  "descuento_porcentaje": 20,
+  "precio_final": 244.6,
+  "ubicación_bodega": "Zaragoza",
+  "sku": "SKU-35053",
+  "proveedor": "Espinosa-Pavón",
+  "peso_kg": 19.54
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66490"
+  },
+  "id_producto": 269,
+  "nombre_producto": "Samsung Sed 686",
+  "marca": "Samsung",
+  "categoría": "Electrónica",
+  "descripción": "Illo aperiam eveniet modi totam error.",
+  "stock": 389,
+  "precio_usd": 890.38,
+  "descuento_porcentaje": 0,
+  "precio_final": 890.38,
+  "ubicación_bodega": "Córdoba",
+  "sku": "SKU-88176",
+  "proveedor": "Vazquez-Pol",
+  "peso_kg": 1.32
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66491"
+  },
+  "id_producto": 270,
+  "nombre_producto": "Acer Ab 520",
+  "marca": "Acer",
+  "categoría": "Cocina",
+  "descripción": "Atque porro voluptatem consectetur quaerat alias.",
+  "stock": 154,
+  "precio_usd": 287.72,
+  "descuento_porcentaje": 25,
+  "precio_final": 215.79,
+  "ubicación_bodega": "Soria",
+  "sku": "SKU-73148",
+  "proveedor": "Zamorano, Mulet and Vallés",
+  "peso_kg": 20.09
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66492"
+  },
+  "id_producto": 271,
+  "nombre_producto": "LG Hic 676",
+  "marca": "LG",
+  "categoría": "Belleza",
+  "descripción": "Placeat dolores quia.",
+  "stock": 115,
+  "precio_usd": 1083.95,
+  "descuento_porcentaje": 5,
+  "precio_final": 1029.75,
+  "ubicación_bodega": "Salamanca",
+  "sku": "SKU-87902",
+  "proveedor": "Cabello-Puente",
+  "peso_kg": 22.35
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66493"
+  },
+  "id_producto": 272,
+  "nombre_producto": "Sony Magni 559",
+  "marca": "Sony",
+  "categoría": "Deportes",
+  "descripción": "Maxime optio perferendis ipsa numquam.",
+  "stock": 286,
+  "precio_usd": 79.87,
+  "descuento_porcentaje": 5,
+  "precio_final": 75.88,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-81977",
+  "proveedor": "Campoy-Abad",
+  "peso_kg": 19.83
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66494"
+  },
+  "id_producto": 273,
+  "nombre_producto": "Pioneer Officiis 521",
+  "marca": "Pioneer",
+  "categoría": "Hogar",
+  "descripción": "Dignissimos reprehenderit aut.",
+  "stock": 19,
+  "precio_usd": 829.67,
+  "descuento_porcentaje": 20,
+  "precio_final": 663.74,
+  "ubicación_bodega": "Santa Cruz de Tenerife",
+  "sku": "SKU-34919",
+  "proveedor": "Galindo-Mateu",
+  "peso_kg": 21.12
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66495"
+  },
+  "id_producto": 274,
+  "nombre_producto": "Adidas Architecto 600",
+  "marca": "Adidas",
+  "categoría": "Cocina",
+  "descripción": "Vero ab rerum minima culpa nulla.",
+  "stock": 152,
+  "precio_usd": 291.94,
+  "descuento_porcentaje": 25,
+  "precio_final": 218.95,
+  "ubicación_bodega": "Las Palmas",
+  "sku": "SKU-76439",
+  "proveedor": "Huguet, Linares and Morell",
+  "peso_kg": 9.38
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66496"
+  },
+  "id_producto": 275,
+  "nombre_producto": "Sony Ad 976",
+  "marca": "Sony",
+  "categoría": "Hogar",
+  "descripción": "Non rerum molestias minus corrupti.",
+  "stock": 406,
+  "precio_usd": 278.27,
+  "descuento_porcentaje": 25,
+  "precio_final": 208.7,
+  "ubicación_bodega": "Lugo",
+  "sku": "SKU-27317",
+  "proveedor": "Tamayo Inc",
+  "peso_kg": 4.27
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66497"
+  },
+  "id_producto": 276,
+  "nombre_producto": "Pioneer Ab 398",
+  "marca": "Pioneer",
+  "categoría": "Computadores",
+  "descripción": "Iusto repudiandae aliquid quas maiores.",
+  "stock": 144,
+  "precio_usd": 1847.05,
+  "descuento_porcentaje": 15,
+  "precio_final": 1569.99,
+  "ubicación_bodega": "León",
+  "sku": "SKU-29792",
+  "proveedor": "Calzada PLC",
+  "peso_kg": 20.22
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66498"
+  },
+  "id_producto": 277,
+  "nombre_producto": "Sony Suscipit 963",
+  "marca": "Sony",
+  "categoría": "Audio",
+  "descripción": "Nulla repudiandae quas.",
+  "stock": 449,
+  "precio_usd": 1179.13,
+  "descuento_porcentaje": 25,
+  "precio_final": 884.35,
+  "ubicación_bodega": "Álava",
+  "sku": "SKU-68182",
+  "proveedor": "Villa-Barral",
+  "peso_kg": 13.5
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca66499"
+  },
+  "id_producto": 278,
+  "nombre_producto": "Asus Dolores 644",
+  "marca": "Asus",
+  "categoría": "Hogar",
+  "descripción": "Illo maiores nihil illum.",
+  "stock": 406,
+  "precio_usd": 120.96,
+  "descuento_porcentaje": 10,
+  "precio_final": 108.86,
+  "ubicación_bodega": "Cádiz",
+  "sku": "SKU-09272",
+  "proveedor": "Mayol Ltd",
+  "peso_kg": 19.37
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6649a"
+  },
+  "id_producto": 279,
+  "nombre_producto": "Adidas Architecto 897",
+  "marca": "Adidas",
+  "categoría": "Electrónica",
+  "descripción": "Beatae dignissimos consequuntur similique esse.",
+  "stock": 486,
+  "precio_usd": 1787.25,
+  "descuento_porcentaje": 10,
+  "precio_final": 1608.53,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-02209",
+  "proveedor": "Cortes-Antón",
+  "peso_kg": 9.56
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6649b"
+  },
+  "id_producto": 280,
+  "nombre_producto": "HP Eligendi 822",
+  "marca": "HP",
+  "categoría": "Cocina",
+  "descripción": "Eaque consequatur temporibus minus numquam.",
+  "stock": 84,
+  "precio_usd": 266.5,
+  "descuento_porcentaje": 20,
+  "precio_final": 213.2,
+  "ubicación_bodega": "Zamora",
+  "sku": "SKU-07145",
+  "proveedor": "Velázquez and Sons",
+  "peso_kg": 10.33
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6649c"
+  },
+  "id_producto": 281,
+  "nombre_producto": "Xiaomi Ipsam 425",
+  "marca": "Xiaomi",
+  "categoría": "Audio",
+  "descripción": "Doloribus dignissimos harum.",
+  "stock": 183,
+  "precio_usd": 1153.11,
+  "descuento_porcentaje": 0,
+  "precio_final": 1153.11,
+  "ubicación_bodega": "Madrid",
+  "sku": "SKU-24838",
+  "proveedor": "Puga-Galván",
+  "peso_kg": 22.2
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6649d"
+  },
+  "id_producto": 282,
+  "nombre_producto": "Asus Voluptas 127",
+  "marca": "Asus",
+  "categoría": "Deportes",
+  "descripción": "Sit magni esse similique non.",
+  "stock": 454,
+  "precio_usd": 330.75,
+  "descuento_porcentaje": 25,
+  "precio_final": 248.06,
+  "ubicación_bodega": "Vizcaya",
+  "sku": "SKU-54061",
+  "proveedor": "Albero-Lastra",
+  "peso_kg": 11.39
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6649e"
+  },
+  "id_producto": 283,
+  "nombre_producto": "Adidas Facilis 700",
+  "marca": "Adidas",
+  "categoría": "Gaming",
+  "descripción": "Voluptas doloremque illo laborum omnis.",
+  "stock": 62,
+  "precio_usd": 282.89,
+  "descuento_porcentaje": 25,
+  "precio_final": 212.17,
+  "ubicación_bodega": "Alicante",
+  "sku": "SKU-59742",
+  "proveedor": "Leal Inc",
+  "peso_kg": 1.68
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca6649f"
+  },
+  "id_producto": 284,
+  "nombre_producto": "Adidas Omnis 353",
+  "marca": "Adidas",
+  "categoría": "Electrónica",
+  "descripción": "Laborum non minus excepturi earum necessitatibus.",
+  "stock": 486,
+  "precio_usd": 1639.71,
+  "descuento_porcentaje": 25,
+  "precio_final": 1229.78,
+  "ubicación_bodega": "Lugo",
+  "sku": "SKU-10610",
+  "proveedor": "Bartolomé-Salmerón",
+  "peso_kg": 0.44
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a0"
+  },
+  "id_producto": 285,
+  "nombre_producto": "Sony Dicta 282",
+  "marca": "Sony",
+  "categoría": "Audio",
+  "descripción": "Voluptate incidunt alias recusandae error.",
+  "stock": 68,
+  "precio_usd": 736.56,
+  "descuento_porcentaje": 30,
+  "precio_final": 515.59,
+  "ubicación_bodega": "Salamanca",
+  "sku": "SKU-33254",
+  "proveedor": "Montalbán LLC",
+  "peso_kg": 17.62
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a1"
+  },
+  "id_producto": 286,
+  "nombre_producto": "LG Odio 576",
+  "marca": "LG",
+  "categoría": "Audio",
+  "descripción": "Delectus omnis exercitationem impedit repellendus accusamus enim.",
+  "stock": 428,
+  "precio_usd": 189.49,
+  "descuento_porcentaje": 0,
+  "precio_final": 189.49,
+  "ubicación_bodega": "Málaga",
+  "sku": "SKU-07973",
+  "proveedor": "Romeu-Hernando",
+  "peso_kg": 12.63
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a2"
+  },
+  "id_producto": 287,
+  "nombre_producto": "Apple Sapiente 495",
+  "marca": "Apple",
+  "categoría": "Gaming",
+  "descripción": "Ipsam distinctio aspernatur occaecati vel ea inventore.",
+  "stock": 493,
+  "precio_usd": 1493.95,
+  "descuento_porcentaje": 30,
+  "precio_final": 1045.76,
+  "ubicación_bodega": "Pontevedra",
+  "sku": "SKU-26443",
+  "proveedor": "Sastre PLC",
+  "peso_kg": 18.21
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a3"
+  },
+  "id_producto": 288,
+  "nombre_producto": "Adidas Odio 275",
+  "marca": "Adidas",
+  "categoría": "Audio",
+  "descripción": "Incidunt possimus optio rerum laborum vero.",
+  "stock": 404,
+  "precio_usd": 1299.84,
+  "descuento_porcentaje": 25,
+  "precio_final": 974.88,
+  "ubicación_bodega": "Barcelona",
+  "sku": "SKU-80893",
+  "proveedor": "Pintor, Torres and Múgica",
+  "peso_kg": 18.06
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a4"
+  },
+  "id_producto": 289,
+  "nombre_producto": "Adidas Ducimus 896",
+  "marca": "Adidas",
+  "categoría": "Electrónica",
+  "descripción": "Nihil quas eos labore velit quod.",
+  "stock": 291,
+  "precio_usd": 53.8,
+  "descuento_porcentaje": 15,
+  "precio_final": 45.73,
+  "ubicación_bodega": "Asturias",
+  "sku": "SKU-27803",
+  "proveedor": "Olivé LLC",
+  "peso_kg": 20.47
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a5"
+  },
+  "id_producto": 290,
+  "nombre_producto": "Apple Enim 349",
+  "marca": "Apple",
+  "categoría": "Belleza",
+  "descripción": "Eveniet maxime nam suscipit ipsa dicta pariatur.",
+  "stock": 296,
+  "precio_usd": 1462.05,
+  "descuento_porcentaje": 0,
+  "precio_final": 1462.05,
+  "ubicación_bodega": "Almería",
+  "sku": "SKU-79114",
+  "proveedor": "Rueda, Cardona and Llamas",
+  "peso_kg": 1.42
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a6"
+  },
+  "id_producto": 291,
+  "nombre_producto": "Apple Maxime 387",
+  "marca": "Apple",
+  "categoría": "Computadores",
+  "descripción": "Expedita molestias facere neque soluta at necessitatibus.",
+  "stock": 215,
+  "precio_usd": 762.36,
+  "descuento_porcentaje": 10,
+  "precio_final": 686.12,
+  "ubicación_bodega": "Lugo",
+  "sku": "SKU-87491",
+  "proveedor": "Zorrilla-Egea",
+  "peso_kg": 7.23
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a7"
+  },
+  "id_producto": 292,
+  "nombre_producto": "Adidas Nam 659",
+  "marca": "Adidas",
+  "categoría": "Hogar",
+  "descripción": "Atque delectus ullam dolores.",
+  "stock": 363,
+  "precio_usd": 1718.7,
+  "descuento_porcentaje": 20,
+  "precio_final": 1374.96,
+  "ubicación_bodega": "Guadalajara",
+  "sku": "SKU-73660",
+  "proveedor": "Guitart-Plana",
+  "peso_kg": 2.33
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a8"
+  },
+  "id_producto": 293,
+  "nombre_producto": "Nike Cumque 524",
+  "marca": "Nike",
+  "categoría": "Gaming",
+  "descripción": "Vel nemo eveniet eum animi magni.",
+  "stock": 368,
+  "precio_usd": 1567.23,
+  "descuento_porcentaje": 5,
+  "precio_final": 1488.87,
+  "ubicación_bodega": "Jaén",
+  "sku": "SKU-96215",
+  "proveedor": "Real and Sons",
+  "peso_kg": 19.5
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664a9"
+  },
+  "id_producto": 294,
+  "nombre_producto": "LG Quod 583",
+  "marca": "LG",
+  "categoría": "Gaming",
+  "descripción": "Fugiat numquam ipsa harum.",
+  "stock": 493,
+  "precio_usd": 369.08,
+  "descuento_porcentaje": 20,
+  "precio_final": 295.26,
+  "ubicación_bodega": "Álava",
+  "sku": "SKU-44891",
+  "proveedor": "Ortuño-Barros",
+  "peso_kg": 18.04
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664aa"
+  },
+  "id_producto": 295,
+  "nombre_producto": "Acer Culpa 639",
+  "marca": "Acer",
+  "categoría": "Ropa",
+  "descripción": "Laboriosam explicabo ea debitis adipisci aliquam.",
+  "stock": 176,
+  "precio_usd": 1781.9,
+  "descuento_porcentaje": 25,
+  "precio_final": 1336.43,
+  "ubicación_bodega": "Murcia",
+  "sku": "SKU-30195",
+  "proveedor": "Jordá-Palmer",
+  "peso_kg": 0.78
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664ab"
+  },
+  "id_producto": 296,
+  "nombre_producto": "Xiaomi Atque 997",
+  "marca": "Xiaomi",
+  "categoría": "Deportes",
+  "descripción": "Itaque cupiditate cumque consectetur ratione temporibus fugiat.",
+  "stock": 232,
+  "precio_usd": 1271.17,
+  "descuento_porcentaje": 30,
+  "precio_final": 889.82,
+  "ubicación_bodega": "Ourense",
+  "sku": "SKU-35499",
+  "proveedor": "Alberdi and Sons",
+  "peso_kg": 22.47
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664ac"
+  },
+  "id_producto": 297,
+  "nombre_producto": "HP Explicabo 366",
+  "marca": "HP",
+  "categoría": "Audio",
+  "descripción": "Mollitia iste placeat nam non.",
+  "stock": 267,
+  "precio_usd": 1182.36,
+  "descuento_porcentaje": 20,
+  "precio_final": 945.89,
+  "ubicación_bodega": "Santa Cruz de Tenerife",
+  "sku": "SKU-58939",
+  "proveedor": "Serrano-Cuesta",
+  "peso_kg": 15.9
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664ad"
+  },
+  "id_producto": 298,
+  "nombre_producto": "Apple Tenetur 899",
+  "marca": "Apple",
+  "categoría": "Audio",
+  "descripción": "Ab dignissimos consectetur harum accusantium.",
+  "stock": 29,
+  "precio_usd": 1214.42,
+  "descuento_porcentaje": 5,
+  "precio_final": 1153.7,
+  "ubicación_bodega": "Valladolid",
+  "sku": "SKU-35441",
+  "proveedor": "Fuster, Céspedes and Guardiola",
+  "peso_kg": 17.2
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664ae"
+  },
+  "id_producto": 299,
+  "nombre_producto": "Asus Debitis 685",
+  "marca": "Asus",
+  "categoría": "Electrónica",
+  "descripción": "Nihil sed neque molestiae adipisci maiores.",
+  "stock": 124,
+  "precio_usd": 1027.51,
+  "descuento_porcentaje": 15,
+  "precio_final": 873.38,
+  "ubicación_bodega": "Santa Cruz de Tenerife",
+  "sku": "SKU-34564",
+  "proveedor": "Alfonso-Elías",
+  "peso_kg": 12.28
+},
+{
+  "_id": {
+    "$oid": "691698ffd58e14000ca664af"
+  },
+  "id_producto": 300,
+  "nombre_producto": "Apple Qui 930",
+  "marca": "Apple",
+  "categoría": "Cocina",
+  "descripción": "Saepe animi laborum necessitatibus.",
+  "stock": 177,
+  "precio_usd": 1893.22,
+  "descuento_porcentaje": 10,
+  "precio_final": 1703.9,
+  "ubicación_bodega": "Ávila",
+  "sku": "SKU-12985",
+  "proveedor": "Mata-Rosa",
+  "peso_kg": 2.46
+},
+{
+  "_id": {
+    "$oid": "6916a62bd58e14000ca664b4"
+  },
+  "id_producto": 301,
+  "nombre_producto": "Xiaomi Altavoz 450",
+  "marca": "Xiaomi",
+  "categoría": "Audio",
+  "descripción": "Altavoz portátil de alta fidelidad",
+  "stock": 80,
+  "precio_usd": 45.99,
+  "descuento_porcentaje": 10,
+  "precio_final": 41.39,
+  "ubicación_bodega": "Bogotá",
+  "sku": "SKU-99887",
+  "proveedor": "TechPro Colombia",
+  "peso_kg": 0.55
+}]
